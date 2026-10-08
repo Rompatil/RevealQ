@@ -1,0 +1,124 @@
+/* Signalboard — "analysis pad": ledger paper, navy ink, red & blue pencil. */
+:root {
+  --pad: #eef3eb;
+  --pad-raised: #f6f9f4;
+  --ink: #1c2b3a;
+  --graphite: #5b6964;
+  --rule: #c8d5c2;
+  --rule-strong: #a9bba3;
+  --red: #c23b2f;
+  --red-wash: rgba(194, 59, 47, 0.1);
+  --blue: #2d5ba6;
+  --blue-wash: rgba(45, 91, 166, 0.14);
+  --blue-wash-2: rgba(45, 91, 166, 0.07);
+  --up: #2f7a4c;
+
+  --font-display: "Bricolage Grotesque Variable", "Avenir Next", system-ui, sans-serif;
+  --font-body: "Public Sans Variable", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* Type scale (perfect fourth, 16px base) */
+  --t-xs: 0.8125rem;
+  --t-sm: 0.875rem;
+  --t-md: 1rem;
+  --t-lg: 1.333rem;
+  --t-xl: 1.777rem;
+  --t-2xl: 2.369rem;
+  --t-3xl: 3.157rem;
+
+  --gutter: clamp(16px, 4vw, 48px);
+  --radius-sm: 4px;
+  --radius-md: 10px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --pad: #131c25;
+    --pad-raised: #1a2530;
+    --ink: #e4ece2;
+    --graphite: #9aa8a2;
+    --rule: #2b3a45;
+    --rule-strong: #3d505d;
+    --red: #ef7266;
+    --red-wash: rgba(239, 114, 102, 0.14);
+    --blue: #8db0ea;
+    --blue-wash: rgba(141, 176, 234, 0.2);
+    --blue-wash-2: rgba(141, 176, 234, 0.09);
+    --up: #78c493;
+    color-scheme: dark;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--pad);
+  /* faint ledger columns */
+  background-image: linear-gradient(to right, var(--rule) 1px, transparent 1px);
+  background-size: 120px 100%;
+  background-attachment: fixed;
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--t-md);
+  line-height: 1.55;
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-image: linear-gradient(to right, rgba(61, 80, 93, 0.35) 1px, transparent 1px);
+  }
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: 1.15;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+p {
+  margin: 0;
+}
+
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

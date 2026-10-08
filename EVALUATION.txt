@@ -1,0 +1,11 @@
+Series evaluated: 200  (124.1s, 621 ms/series)
+
+Anomaly detection (medium + high severity)
+  injected: 723   true positives: 714   false positives: 19
+  precision 97.4%   recall 98.8%   F1 0.981
+
+Forecasting, 28-day out-of-sample holdout (173 series)
+  median MAPE  selected model 5.79%   seasonal naive 7.07%
+  mean   MAPE  selected model 6.37%   seasonal naive 7.80%
+  error reduction vs baseline: 18.3%   selected model at least as good on 134/173 series
+  models chosen: {'Seasonal naive (baseline)': 26, 'Holt (damped trend)': 7, 'Holt-Winters (trend + seasonality)': 140}

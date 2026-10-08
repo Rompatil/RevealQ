@@ -1,0 +1,2921 @@
+order_date,category,revenue,orders,region
+2024-07-01,Electronics,3364.62,10,Abu Dhabi
+2024-07-01,Home & Kitchen,1952.84,21,Sharjah
+2024-07-01,Fashion,2493.65,32,Abu Dhabi
+2024-07-01,Groceries,1455.85,37,Dubai
+2024-07-02,Electronics,3397.74,11,Dubai
+2024-07-02,Home & Kitchen,2188.98,24,Abu Dhabi
+2024-07-02,Fashion,2157.28,32,Dubai
+2024-07-02,Groceries,1499.82,42,Dubai
+2024-07-03,Electronics,3418.73,11,Dubai
+2024-07-03,Home & Kitchen,2013.35,21,Dubai
+2024-07-03,Fashion,2226.79,31,Dubai
+2024-07-03,Groceries,1441.47,36,Dubai
+2024-07-04,Electronics,3382.93,10,Dubai
+2024-07-04,Home & Kitchen,2080.85,21,Dubai
+2024-07-04,Fashion,2285.2,31,Abu Dhabi
+2024-07-04,Groceries,1365.33,34,Dubai
+2024-07-05,Electronics,3831.76,11,Abu Dhabi
+2024-07-05,Home & Kitchen,2272.58,23,Dubai
+2024-07-05,Fashion,2917.24,39,Dubai
+2024-07-05,Groceries,1895.21,46,Abu Dhabi
+2024-07-06,Electronics,4080.35,13,Dubai
+2024-07-06,Home & Kitchen,2280.42,24,Dubai
+2024-07-06,Fashion,3149.81,41,Dubai
+2024-07-06,Groceries,1713.7,43,Sharjah
+2024-07-07,Electronics,3903.85,12,Abu Dhabi
+2024-07-07,Home & Kitchen,2613.89,27,Abu Dhabi
+2024-07-07,Fashion,2918.62,37,Sharjah
+2024-07-07,Groceries,1780.11,46,Sharjah
+2024-07-08,Electronics,3381.85,11,Dubai
+2024-07-08,Home & Kitchen,2053.0,20,Dubai
+2024-07-08,Fashion,2519.56,33,Dubai
+2024-07-08,Groceries,1658.72,43,Dubai
+2024-07-09,Electronics,3128.66,9,Dubai
+2024-07-09,Home & Kitchen,1821.85,19,Dubai
+2024-07-09,Fashion,2559.39,31,Dubai
+2024-07-09,Groceries,1481.0,38,Dubai
+2024-07-10,Electronics,3407.34,11,Sharjah
+2024-07-10,Home & Kitchen,2207.97,24,Dubai
+2024-07-10,Fashion,2543.27,37,Dubai
+2024-07-10,Groceries,1459.21,36,Dubai
+2024-07-11,Electronics,3482.3,11,Dubai
+2024-07-11,Home & Kitchen,1837.7,20,Dubai
+2024-07-11,Fashion,2164.82,28,Dubai
+2024-07-11,Groceries,1638.8,45,Dubai
+2024-07-12,Electronics,4134.06,14,Dubai
+2024-07-12,Home & Kitchen,2783.49,29,Dubai
+2024-07-12,Fashion,2976.33,43,Abu Dhabi
+2024-07-12,Groceries,1771.27,46,Dubai
+2024-07-13,Electronics,3929.6,13,Dubai
+2024-07-13,Home & Kitchen,2508.44,25,Dubai
+2024-07-13,Fashion,2871.76,40,Abu Dhabi
+2024-07-13,Groceries,1847.12,49,Dubai
+2024-07-14,Electronics,3725.29,12,Dubai
+2024-07-14,Home & Kitchen,2423.9,26,Dubai
+2024-07-14,Fashion,2865.48,37,Abu Dhabi
+2024-07-14,Groceries,1824.03,49,Sharjah
+2024-07-15,Electronics,3686.21,11,Abu Dhabi
+2024-07-15,Home & Kitchen,2048.17,21,Dubai
+2024-07-15,Fashion,2547.13,37,Abu Dhabi
+2024-07-15,Groceries,1720.05,46,Abu Dhabi
+2024-07-16,Electronics,3509.4,11,Sharjah
+2024-07-16,Home & Kitchen,2264.4,24,Dubai
+2024-07-16,Fashion,2584.53,33,Dubai
+2024-07-16,Groceries,1619.63,43,Abu Dhabi
+2024-07-17,Electronics,3764.42,11,Dubai
+2024-07-17,Home & Kitchen,2258.14,22,Dubai
+2024-07-17,Fashion,2755.27,39,Abu Dhabi
+2024-07-17,Groceries,1443.84,36,Dubai
+2024-07-18,Electronics,3758.72,11,Sharjah
+2024-07-18,Home & Kitchen,2007.64,23,Dubai
+2024-07-18,Fashion,2411.82,33,Abu Dhabi
+2024-07-18,Groceries,1403.92,41,Abu Dhabi
+2024-07-19,Electronics,4207.48,13,Sharjah
+2024-07-19,Home & Kitchen,2428.23,27,Abu Dhabi
+2024-07-19,Fashion,2864.16,43,Abu Dhabi
+2024-07-19,Groceries,1869.47,48,Abu Dhabi
+2024-07-20,Electronics,4015.57,13,Sharjah
+2024-07-20,Home & Kitchen,2627.88,28,Dubai
+2024-07-20,Fashion,3156.27,39,Abu Dhabi
+2024-07-20,Groceries,2000.21,52,Dubai
+2024-07-21,Electronics,3795.97,12,Dubai
+2024-07-21,Home & Kitchen,2586.1,27,Abu Dhabi
+2024-07-21,Fashion,3342.84,46,Dubai
+2024-07-21,Groceries,1797.38,52,Dubai
+2024-07-22,Electronics,3420.92,11,Dubai
+2024-07-22,Home & Kitchen,2219.13,24,Dubai
+2024-07-22,Fashion,2837.75,39,Dubai
+2024-07-22,Groceries,1599.68,42,Dubai
+2024-07-23,Electronics,3746.29,11,Dubai
+2024-07-23,Home & Kitchen,2298.86,25,Dubai
+2024-07-23,Fashion,2403.59,33,Dubai
+2024-07-23,Groceries,1461.36,35,Abu Dhabi
+2024-07-24,Electronics,3502.84,10,Abu Dhabi
+2024-07-24,Home & Kitchen,1819.72,18,Dubai
+2024-07-24,Fashion,2662.58,39,Dubai
+2024-07-24,Groceries,1595.66,39,Sharjah
+2024-07-25,Electronics,3632.66,10,Abu Dhabi
+2024-07-25,Home & Kitchen,2174.11,25,Sharjah
+2024-07-25,Fashion,2835.43,37,Abu Dhabi
+2024-07-25,Groceries,1633.51,42,Dubai
+2024-07-26,Electronics,4243.3,13,Abu Dhabi
+2024-07-26,Home & Kitchen,2749.7,29,Dubai
+2024-07-26,Fashion,3005.19,38,Dubai
+2024-07-26,Groceries,1928.08,51,Abu Dhabi
+2024-07-27,Electronics,4301.09,13,Sharjah
+2024-07-27,Home & Kitchen,2614.03,27,Abu Dhabi
+2024-07-27,Fashion,2803.97,39,Abu Dhabi
+2024-07-27,Groceries,2044.53,55,Dubai
+2024-07-28,Electronics,3921.1,11,Dubai
+2024-07-28,Home & Kitchen,2778.45,30,Dubai
+2024-07-28,Fashion,3166.48,46,Sharjah
+2024-07-28,Groceries,2204.24,58,Dubai
+2024-07-29,Electronics,3420.97,10,Dubai
+2024-07-29,Home & Kitchen,2091.87,20,Dubai
+2024-07-29,Fashion,2897.2,37,Sharjah
+2024-07-29,Groceries,1706.16,40,Dubai
+2024-07-30,Electronics,3551.79,12,Dubai
+2024-07-30,Home & Kitchen,2511.63,25,Sharjah
+2024-07-30,Fashion,2541.11,36,Abu Dhabi
+2024-07-30,Groceries,1624.42,42,Dubai
+2024-07-31,Electronics,3642.66,11,Dubai
+2024-07-31,Home & Kitchen,2271.06,23,Sharjah
+2024-07-31,Fashion,2825.09,39,Dubai
+2024-07-31,Groceries,1698.66,49,Dubai
+2024-08-01,Electronics,3958.97,12,Dubai
+2024-08-01,Home & Kitchen,2018.61,21,Dubai
+2024-08-01,Fashion,2843.9,35,Dubai
+2024-08-01,Groceries,1568.93,43,Sharjah
+2024-08-02,Electronics,4371.03,14,Abu Dhabi
+2024-08-02,Home & Kitchen,2497.31,24,Abu Dhabi
+2024-08-02,Fashion,3469.19,49,Dubai
+2024-08-02,Groceries,1946.82,52,Sharjah
+2024-08-03,Electronics,4039.62,14,Sharjah
+2024-08-03,Home & Kitchen,2690.02,28,Dubai
+2024-08-03,Fashion,2843.63,41,Abu Dhabi
+2024-08-03,Groceries,2026.0,54,Abu Dhabi
+2024-08-04,Electronics,4527.96,15,Dubai
+2024-08-04,Home & Kitchen,2891.34,29,Abu Dhabi
+2024-08-04,Fashion,3554.72,47,Dubai
+2024-08-04,Groceries,1925.7,51,Dubai
+2024-08-05,Electronics,4471.56,14,Sharjah
+2024-08-05,Home & Kitchen,2222.99,23,Abu Dhabi
+2024-08-05,Fashion,2689.02,35,Dubai
+2024-08-05,Groceries,1809.28,46,Sharjah
+2024-08-06,Electronics,3679.18,12,Abu Dhabi
+2024-08-06,Home & Kitchen,2249.85,24,Abu Dhabi
+2024-08-06,Fashion,2574.11,38,Sharjah
+2024-08-06,Groceries,1793.38,51,Abu Dhabi
+2024-08-07,Electronics,3654.83,12,Abu Dhabi
+2024-08-07,Home & Kitchen,2261.63,22,Abu Dhabi
+2024-08-07,Fashion,2859.29,40,Dubai
+2024-08-07,Groceries,1764.82,46,Abu Dhabi
+2024-08-08,Electronics,3832.43,13,Abu Dhabi
+2024-08-08,Home & Kitchen,2364.57,23,Abu Dhabi
+2024-08-08,Fashion,2786.87,42,Abu Dhabi
+2024-08-08,Groceries,1572.45,45,Dubai
+2024-08-09,Electronics,4583.41,14,Abu Dhabi
+2024-08-09,Home & Kitchen,2578.52,28,Abu Dhabi
+2024-08-09,Fashion,3398.12,49,Dubai
+2024-08-09,Groceries,2097.05,57,Dubai
+2024-08-10,Electronics,4264.69,14,Dubai
+2024-08-10,Home & Kitchen,3167.28,33,Sharjah
+2024-08-10,Fashion,3315.7,45,Sharjah
+2024-08-10,Groceries,2292.28,63,Dubai
+2024-08-11,Electronics,4269.82,14,Dubai
+2024-08-11,Home & Kitchen,2974.96,32,Dubai
+2024-08-11,Fashion,3252.91,42,Dubai
+2024-08-11,Groceries,2104.43,58,Dubai
+2024-08-12,Electronics,3615.92,11,Dubai
+2024-08-12,Home & Kitchen,2230.04,21,Dubai
+2024-08-12,Fashion,2758.07,40,Dubai
+2024-08-12,Groceries,1678.79,44,Abu Dhabi
+2024-08-13,Electronics,3902.02,13,Dubai
+2024-08-13,Home & Kitchen,2396.93,23,Sharjah
+2024-08-13,Fashion,2821.58,40,Dubai
+2024-08-13,Groceries,1659.07,45,Abu Dhabi
+2024-08-14,Electronics,3656.63,11,Dubai
+2024-08-14,Home & Kitchen,2455.37,26,Dubai
+2024-08-14,Fashion,2670.23,37,Abu Dhabi
+2024-08-14,Groceries,1767.7,46,Dubai
+2024-08-15,Electronics,3980.35,13,Dubai
+2024-08-15,Home & Kitchen,2372.98,27,Abu Dhabi
+2024-08-15,Fashion,2901.55,40,Dubai
+2024-08-15,Groceries,1700.06,47,Dubai
+2024-08-16,Electronics,4513.45,14,Dubai
+2024-08-16,Home & Kitchen,2917.97,30,Dubai
+2024-08-16,Fashion,3296.74,44,Abu Dhabi
+2024-08-16,Groceries,2134.3,55,Abu Dhabi
+2024-08-17,Electronics,4841.94,16,Sharjah
+2024-08-17,Home & Kitchen,3010.84,31,Abu Dhabi
+2024-08-17,Fashion,3052.72,41,Dubai
+2024-08-17,Groceries,2222.09,57,Dubai
+2024-08-18,Electronics,5048.35,16,Abu Dhabi
+2024-08-18,Home & Kitchen,2970.47,33,Abu Dhabi
+2024-08-18,Fashion,3275.76,42,Abu Dhabi
+2024-08-18,Groceries,2122.73,51,Dubai
+2024-08-19,Electronics,4001.74,13,Abu Dhabi
+2024-08-19,Home & Kitchen,2342.88,24,Sharjah
+2024-08-19,Fashion,2939.16,38,Dubai
+2024-08-19,Groceries,1765.12,44,Dubai
+2024-08-20,Electronics,4351.94,13,Dubai
+2024-08-20,Home & Kitchen,2535.34,28,Sharjah
+2024-08-20,Fashion,3047.19,42,Abu Dhabi
+2024-08-20,Groceries,1567.38,42,Abu Dhabi
+2024-08-21,Electronics,3820.09,13,Dubai
+2024-08-21,Home & Kitchen,2638.7,27,Abu Dhabi
+2024-08-21,Fashion,2936.68,39,Dubai
+2024-08-21,Groceries,1769.91,45,Abu Dhabi
+2024-08-22,Electronics,4569.96,13,Dubai
+2024-08-22,Home & Kitchen,2545.61,25,Dubai
+2024-08-22,Fashion,2943.07,39,Sharjah
+2024-08-22,Groceries,1772.23,46,Abu Dhabi
+2024-08-23,Electronics,5294.92,17,Abu Dhabi
+2024-08-23,Home & Kitchen,2753.81,29,Dubai
+2024-08-23,Fashion,3688.89,48,Dubai
+2024-08-23,Groceries,1986.82,51,Dubai
+2024-08-24,Electronics,4342.91,13,Dubai
+2024-08-24,Home & Kitchen,3068.14,33,Dubai
+2024-08-24,Fashion,3451.26,45,Dubai
+2024-08-24,Groceries,2003.41,52,Abu Dhabi
+2024-08-25,Electronics,5112.94,16,Abu Dhabi
+2024-08-25,Home & Kitchen,2993.07,32,Dubai
+2024-08-25,Fashion,3576.84,47,Abu Dhabi
+2024-08-25,Groceries,2073.1,51,Sharjah
+2024-08-26,Electronics,4736.85,15,Dubai
+2024-08-26,Home & Kitchen,2805.94,29,Dubai
+2024-08-26,Fashion,3022.86,41,Dubai
+2024-08-26,Groceries,1609.76,45,Dubai
+2024-08-27,Electronics,3951.89,12,Dubai
+2024-08-27,Home & Kitchen,2654.56,28,Sharjah
+2024-08-27,Fashion,2822.62,39,Dubai
+2024-08-27,Groceries,1970.97,51,Abu Dhabi
+2024-08-28,Electronics,4088.18,13,Dubai
+2024-08-28,Home & Kitchen,2269.32,25,Dubai
+2024-08-28,Fashion,3557.72,47,Dubai
+2024-08-28,Groceries,1924.52,45,Dubai
+2024-08-29,Electronics,4101.77,12,Dubai
+2024-08-29,Home & Kitchen,2685.61,29,Dubai
+2024-08-29,Fashion,3397.0,45,Dubai
+2024-08-29,Groceries,1578.93,40,Sharjah
+2024-08-30,Electronics,5140.53,16,Dubai
+2024-08-30,Home & Kitchen,2679.45,27,Dubai
+2024-08-30,Fashion,3511.03,50,Dubai
+2024-08-30,Groceries,1827.06,45,Dubai
+2024-08-31,Electronics,5400.36,15,Abu Dhabi
+2024-08-31,Home & Kitchen,2666.41,29,Dubai
+2024-08-31,Fashion,3481.43,48,Sharjah
+2024-08-31,Groceries,2239.99,63,Abu Dhabi
+2024-09-01,Electronics,4993.58,16,Dubai
+2024-09-01,Home & Kitchen,2947.99,32,Dubai
+2024-09-01,Fashion,3614.79,45,Dubai
+2024-09-01,Groceries,2398.88,60,Dubai
+2024-09-02,Electronics,4715.41,15,Dubai
+2024-09-02,Home & Kitchen,2553.74,26,Dubai
+2024-09-02,Fashion,3063.65,44,Dubai
+2024-09-02,Groceries,2165.85,57,Dubai
+2024-09-03,Electronics,4461.53,13,Sharjah
+2024-09-03,Home & Kitchen,2579.42,25,Dubai
+2024-09-03,Fashion,3120.12,40,Abu Dhabi
+2024-09-03,Groceries,1885.48,50,Dubai
+2024-09-04,Electronics,3729.43,12,Sharjah
+2024-09-04,Home & Kitchen,2749.93,28,Abu Dhabi
+2024-09-04,Fashion,2763.51,36,Dubai
+2024-09-04,Groceries,1793.89,45,Abu Dhabi
+2024-09-05,Electronics,3707.35,12,Abu Dhabi
+2024-09-05,Home & Kitchen,2518.53,26,Sharjah
+2024-09-05,Fashion,3464.02,48,Dubai
+2024-09-05,Groceries,1788.54,49,Dubai
+2024-09-06,Electronics,5297.27,17,Dubai
+2024-09-06,Home & Kitchen,3114.35,36,Dubai
+2024-09-06,Fashion,3664.23,50,Dubai
+2024-09-06,Groceries,2335.48,61,Abu Dhabi
+2024-09-07,Electronics,5315.93,16,Dubai
+2024-09-07,Home & Kitchen,2818.11,29,Dubai
+2024-09-07,Fashion,3761.05,56,Dubai
+2024-09-07,Groceries,2261.17,63,Dubai
+2024-09-08,Electronics,5082.03,16,Dubai
+2024-09-08,Home & Kitchen,3170.8,34,Dubai
+2024-09-08,Fashion,3532.6,49,Dubai
+2024-09-08,Groceries,2658.49,73,Dubai
+2024-09-09,Electronics,4152.38,12,Sharjah
+2024-09-09,Home & Kitchen,2589.52,27,Dubai
+2024-09-09,Fashion,2953.51,42,Abu Dhabi
+2024-09-09,Groceries,1722.28,46,Dubai
+2024-09-10,Electronics,4372.56,15,Abu Dhabi
+2024-09-10,Home & Kitchen,2841.29,29,Dubai
+2024-09-10,Fashion,2980.24,40,Dubai
+2024-09-10,Groceries,1765.67,48,Dubai
+2024-09-11,Electronics,4517.15,13,Dubai
+2024-09-11,Home & Kitchen,2878.78,31,Dubai
+2024-09-11,Fashion,3744.69,50,Sharjah
+2024-09-11,Groceries,1918.49,49,Dubai
+2024-09-12,Electronics,4314.04,15,Dubai
+2024-09-12,Home & Kitchen,2714.76,28,Dubai
+2024-09-12,Fashion,3272.46,43,Dubai
+2024-09-12,Groceries,2054.49,48,Abu Dhabi
+2024-09-13,Electronics,5386.67,17,Abu Dhabi
+2024-09-13,Home & Kitchen,3003.81,31,Abu Dhabi
+2024-09-13,Fashion,3989.28,56,Abu Dhabi
+2024-09-13,Groceries,2248.92,58,Sharjah
+2024-09-14,Electronics,4889.71,15,Abu Dhabi
+2024-09-14,Home & Kitchen,3006.33,32,Dubai
+2024-09-14,Fashion,3520.8,48,Sharjah
+2024-09-14,Groceries,2484.41,58,Sharjah
+2024-09-15,Electronics,5254.14,16,Dubai
+2024-09-15,Home & Kitchen,3260.02,31,Dubai
+2024-09-15,Fashion,4101.97,57,Sharjah
+2024-09-15,Groceries,2339.92,63,Dubai
+2024-09-16,Electronics,4774.24,15,Dubai
+2024-09-16,Home & Kitchen,2652.95,31,Abu Dhabi
+2024-09-16,Fashion,3407.93,46,Dubai
+2024-09-16,Groceries,2106.59,56,Sharjah
+2024-09-17,Electronics,4498.41,13,Abu Dhabi
+2024-09-17,Home & Kitchen,2994.43,32,Dubai
+2024-09-17,Fashion,3548.31,49,Abu Dhabi
+2024-09-17,Groceries,1921.39,48,Sharjah
+2024-09-18,Electronics,4439.95,14,Dubai
+2024-09-18,Home & Kitchen,2648.98,27,Dubai
+2024-09-18,Fashion,3149.65,44,Dubai
+2024-09-18,Groceries,1981.75,53,Abu Dhabi
+2024-09-19,Electronics,4953.04,15,Sharjah
+2024-09-19,Home & Kitchen,3018.69,30,Sharjah
+2024-09-19,Fashion,3094.39,41,Dubai
+2024-09-19,Groceries,2242.1,54,Abu Dhabi
+2024-09-20,Electronics,5074.21,15,Abu Dhabi
+2024-09-20,Home & Kitchen,3467.76,36,Dubai
+2024-09-20,Fashion,4066.77,56,Abu Dhabi
+2024-09-20,Groceries,1977.8,50,Sharjah
+2024-09-21,Electronics,5831.4,19,Abu Dhabi
+2024-09-21,Home & Kitchen,3396.4,37,Dubai
+2024-09-21,Fashion,3474.51,48,Abu Dhabi
+2024-09-21,Groceries,2331.63,58,Dubai
+2024-09-22,Electronics,5888.28,18,Dubai
+2024-09-22,Home & Kitchen,3455.12,34,Dubai
+2024-09-22,Fashion,3849.46,53,Dubai
+2024-09-22,Groceries,2215.96,55,Dubai
+2024-09-23,Electronics,4818.04,16,Abu Dhabi
+2024-09-23,Home & Kitchen,2902.6,31,Dubai
+2024-09-23,Fashion,3416.86,43,Abu Dhabi
+2024-09-23,Groceries,1917.61,51,Dubai
+2024-09-24,Electronics,4704.86,15,Abu Dhabi
+2024-09-24,Home & Kitchen,2476.3,26,Sharjah
+2024-09-24,Fashion,3428.75,49,Sharjah
+2024-09-24,Groceries,1986.39,51,Dubai
+2024-09-25,Electronics,4126.96,14,Abu Dhabi
+2024-09-25,Home & Kitchen,2652.67,25,Abu Dhabi
+2024-09-25,Fashion,3506.02,52,Dubai
+2024-09-25,Groceries,1978.55,52,Dubai
+2024-09-26,Electronics,5300.52,16,Dubai
+2024-09-26,Home & Kitchen,2660.65,27,Abu Dhabi
+2024-09-26,Fashion,3560.35,49,Sharjah
+2024-09-26,Groceries,1748.48,46,Dubai
+2024-09-27,Electronics,5453.38,18,Abu Dhabi
+2024-09-27,Home & Kitchen,3054.23,31,Sharjah
+2024-09-27,Fashion,4302.49,63,Dubai
+2024-09-27,Groceries,2335.21,58,Abu Dhabi
+2024-09-28,Electronics,5340.15,16,Sharjah
+2024-09-28,Home & Kitchen,3303.64,36,Abu Dhabi
+2024-09-28,Fashion,3800.83,59,Dubai
+2024-09-28,Groceries,2304.48,59,Dubai
+2024-09-29,Electronics,6094.22,20,Abu Dhabi
+2024-09-29,Home & Kitchen,3679.83,40,Abu Dhabi
+2024-09-29,Fashion,3978.63,60,Sharjah
+2024-09-29,Groceries,2011.07,56,Abu Dhabi
+2024-09-30,Electronics,4713.86,15,Dubai
+2024-09-30,Home & Kitchen,2851.12,28,Dubai
+2024-09-30,Fashion,3408.75,49,Dubai
+2024-09-30,Groceries,2087.37,57,Dubai
+2024-10-01,Electronics,5073.9,16,Dubai
+2024-10-01,Home & Kitchen,3318.71,31,Dubai
+2024-10-01,Fashion,3491.92,43,Sharjah
+2024-10-01,Groceries,1890.62,49,Abu Dhabi
+2024-10-02,Electronics,4641.5,15,Abu Dhabi
+2024-10-02,Home & Kitchen,3065.53,32,Dubai
+2024-10-02,Fashion,3141.81,43,Sharjah
+2024-10-02,Groceries,2041.79,51,Dubai
+2024-10-03,Electronics,5012.27,15,Dubai
+2024-10-03,Home & Kitchen,2897.04,30,Dubai
+2024-10-03,Fashion,3180.02,41,Sharjah
+2024-10-03,Groceries,1965.34,53,Dubai
+2024-10-04,Electronics,5796.8,19,Abu Dhabi
+2024-10-04,Home & Kitchen,3271.03,38,Dubai
+2024-10-04,Fashion,3500.48,48,Abu Dhabi
+2024-10-04,Groceries,2565.78,72,Dubai
+2024-10-05,Electronics,6468.42,20,Dubai
+2024-10-05,Home & Kitchen,3347.37,33,Abu Dhabi
+2024-10-05,Fashion,4456.38,61,Dubai
+2024-10-05,Groceries,2567.86,69,Sharjah
+2024-10-06,Electronics,5793.0,19,Dubai
+2024-10-06,Home & Kitchen,3505.72,33,Dubai
+2024-10-06,Fashion,3674.15,53,Dubai
+2024-10-06,Groceries,2440.11,62,Abu Dhabi
+2024-10-07,Electronics,4739.31,15,Dubai
+2024-10-07,Home & Kitchen,2768.33,28,Dubai
+2024-10-07,Fashion,3235.51,45,Dubai
+2024-10-07,Groceries,2171.75,58,Sharjah
+2024-10-08,Electronics,4297.34,14,Dubai
+2024-10-08,Home & Kitchen,2514.53,26,Sharjah
+2024-10-08,Fashion,3401.77,49,Dubai
+2024-10-08,Groceries,2102.84,55,Sharjah
+2024-10-09,Electronics,4889.33,16,Abu Dhabi
+2024-10-09,Home & Kitchen,3025.65,30,Abu Dhabi
+2024-10-09,Fashion,3381.68,44,Dubai
+2024-10-09,Groceries,2277.1,56,Dubai
+2024-10-10,Electronics,4895.91,15,Abu Dhabi
+2024-10-10,Home & Kitchen,3031.02,32,Dubai
+2024-10-10,Fashion,3085.11,44,Dubai
+2024-10-10,Groceries,2246.45,56,Dubai
+2024-10-11,Electronics,5789.46,19,Abu Dhabi
+2024-10-11,Home & Kitchen,3474.04,35,Dubai
+2024-10-11,Fashion,4097.88,57,Abu Dhabi
+2024-10-11,Groceries,2351.39,66,Dubai
+2024-10-12,Electronics,6423.52,20,Dubai
+2024-10-12,Home & Kitchen,3707.8,36,Sharjah
+2024-10-12,Fashion,3971.73,56,Dubai
+2024-10-12,Groceries,2621.04,65,Abu Dhabi
+2024-10-13,Electronics,6394.02,19,Abu Dhabi
+2024-10-13,Home & Kitchen,3174.68,33,Abu Dhabi
+2024-10-13,Fashion,4068.27,54,Dubai
+2024-10-13,Groceries,2352.07,57,Abu Dhabi
+2024-10-14,Electronics,5095.9,15,Dubai
+2024-10-14,Home & Kitchen,3093.97,37,Dubai
+2024-10-14,Fashion,3438.69,50,Dubai
+2024-10-14,Groceries,2315.07,62,Abu Dhabi
+2024-10-15,Electronics,5748.75,18,Abu Dhabi
+2024-10-15,Home & Kitchen,3080.64,31,Abu Dhabi
+2024-10-15,Fashion,3758.68,53,Sharjah
+2024-10-15,Groceries,2168.79,54,Abu Dhabi
+2024-10-16,Electronics,5166.01,16,Sharjah
+2024-10-16,Home & Kitchen,2887.8,28,Dubai
+2024-10-16,Fashion,3539.19,47,Dubai
+2024-10-16,Groceries,2337.64,60,Abu Dhabi
+2024-10-17,Electronics,4873.45,15,Abu Dhabi
+2024-10-17,Home & Kitchen,3344.85,34,Abu Dhabi
+2024-10-17,Fashion,3960.12,54,Dubai
+2024-10-17,Groceries,1974.64,55,Abu Dhabi
+2024-10-18,Electronics,5637.42,17,Dubai
+2024-10-18,Home & Kitchen,4037.41,40,Sharjah
+2024-10-18,Fashion,4175.74,57,Dubai
+2024-10-18,Groceries,2451.08,64,Dubai
+2024-10-19,Electronics,5293.94,16,Abu Dhabi
+2024-10-19,Home & Kitchen,3661.31,36,Dubai
+2024-10-19,Fashion,4475.21,67,Abu Dhabi
+2024-10-19,Groceries,2443.76,62,Dubai
+2024-10-20,Electronics,4936.13,16,Dubai
+2024-10-20,Home & Kitchen,4017.36,41,Sharjah
+2024-10-20,Fashion,3834.94,49,Abu Dhabi
+2024-10-20,Groceries,2562.33,68,Dubai
+2024-10-21,Electronics,5438.4,15,Dubai
+2024-10-21,Home & Kitchen,3350.55,34,Abu Dhabi
+2024-10-21,Fashion,3953.44,58,Abu Dhabi
+2024-10-21,Groceries,2214.29,55,Dubai
+2024-10-22,Electronics,5274.72,17,Abu Dhabi
+2024-10-22,Home & Kitchen,3099.13,33,Abu Dhabi
+2024-10-22,Fashion,3302.51,47,Sharjah
+2024-10-22,Groceries,1971.28,56,Abu Dhabi
+2024-10-23,Electronics,5296.46,15,Abu Dhabi
+2024-10-23,Home & Kitchen,2946.16,29,Dubai
+2024-10-23,Fashion,3548.78,45,Dubai
+2024-10-23,Groceries,2004.64,56,Abu Dhabi
+2024-10-24,Electronics,5273.25,18,Dubai
+2024-10-24,Home & Kitchen,3216.72,32,Dubai
+2024-10-24,Fashion,3798.6,51,Dubai
+2024-10-24,Groceries,2137.92,55,Sharjah
+2024-10-25,Electronics,5193.47,16,Dubai
+2024-10-25,Home & Kitchen,4073.01,48,Abu Dhabi
+2024-10-25,Fashion,3965.05,52,Dubai
+2024-10-25,Groceries,2762.11,72,Dubai
+2024-10-26,Electronics,6392.05,21,Dubai
+2024-10-26,Home & Kitchen,4403.54,44,Sharjah
+2024-10-26,Fashion,4038.65,52,Sharjah
+2024-10-26,Groceries,2871.15,75,Dubai
+2024-10-27,Electronics,6062.52,21,Dubai
+2024-10-27,Home & Kitchen,3707.59,41,Dubai
+2024-10-27,Fashion,4290.02,54,Dubai
+2024-10-27,Groceries,2586.2,64,Dubai
+2024-10-28,Electronics,5092.01,15,Dubai
+2024-10-28,Home & Kitchen,3067.66,34,Dubai
+2024-10-28,Fashion,4090.6,59,Abu Dhabi
+2024-10-28,Groceries,2064.36,57,Dubai
+2024-10-29,Electronics,5759.79,16,Dubai
+2024-10-29,Home & Kitchen,2978.23,30,Dubai
+2024-10-29,Fashion,3884.8,53,Dubai
+2024-10-29,Groceries,2300.55,62,Dubai
+2024-10-30,Electronics,4608.4,15,Dubai
+2024-10-30,Home & Kitchen,3110.18,34,Dubai
+2024-10-30,Fashion,3802.58,56,Dubai
+2024-10-30,Groceries,2064.69,52,Sharjah
+2024-10-31,Electronics,5564.78,18,Dubai
+2024-10-31,Home & Kitchen,2814.72,27,Dubai
+2024-10-31,Fashion,2974.01,36,Abu Dhabi
+2024-10-31,Groceries,2054.53,53,Dubai
+2024-11-01,Electronics,6255.41,21,Dubai
+2024-11-01,Home & Kitchen,3844.47,40,Dubai
+2024-11-01,Fashion,4389.83,54,Abu Dhabi
+2024-11-01,Groceries,2665.0,77,Dubai
+2024-11-02,Electronics,6803.47,23,Dubai
+2024-11-02,Home & Kitchen,3713.64,41,Abu Dhabi
+2024-11-02,Fashion,4215.94,60,Abu Dhabi
+2024-11-02,Groceries,2741.48,74,Dubai
+2024-11-03,Electronics,6361.25,20,Sharjah
+2024-11-03,Home & Kitchen,4431.39,44,Dubai
+2024-11-03,Fashion,4328.31,62,Abu Dhabi
+2024-11-03,Groceries,2903.35,80,Dubai
+2024-11-04,Electronics,5150.89,16,Dubai
+2024-11-04,Home & Kitchen,3084.03,32,Abu Dhabi
+2024-11-04,Fashion,4147.27,56,Sharjah
+2024-11-04,Groceries,2353.08,57,Dubai
+2024-11-05,Electronics,5574.82,15,Dubai
+2024-11-05,Home & Kitchen,3440.04,33,Dubai
+2024-11-05,Fashion,3924.85,51,Abu Dhabi
+2024-11-05,Groceries,2297.28,63,Abu Dhabi
+2024-11-06,Electronics,5083.79,16,Dubai
+2024-11-06,Home & Kitchen,3287.08,37,Sharjah
+2024-11-06,Fashion,4040.44,54,Dubai
+2024-11-06,Groceries,2220.97,56,Abu Dhabi
+2024-11-07,Electronics,4687.24,14,Sharjah
+2024-11-07,Home & Kitchen,2766.6,27,Dubai
+2024-11-07,Fashion,3707.2,48,Dubai
+2024-11-07,Groceries,2264.53,55,Dubai
+2024-11-08,Electronics,6111.15,19,Dubai
+2024-11-08,Home & Kitchen,4188.86,46,Sharjah
+2024-11-08,Fashion,4018.7,53,Dubai
+2024-11-08,Groceries,2153.2,56,Abu Dhabi
+2024-11-09,Electronics,6110.26,18,Dubai
+2024-11-09,Home & Kitchen,3487.47,34,Dubai
+2024-11-09,Fashion,4913.57,67,Sharjah
+2024-11-09,Groceries,2635.51,65,Dubai
+2024-11-10,Electronics,6323.81,20,Dubai
+2024-11-10,Home & Kitchen,3623.95,34,Dubai
+2024-11-10,Fashion,5011.51,73,Dubai
+2024-11-10,Groceries,2790.02,71,Dubai
+2024-11-11,Electronics,5109.9,16,Abu Dhabi
+2024-11-11,Home & Kitchen,2908.63,29,Abu Dhabi
+2024-11-11,Fashion,3860.05,50,Abu Dhabi
+2024-11-11,Groceries,2252.94,53,Abu Dhabi
+2024-11-12,Electronics,5240.04,16,Dubai
+2024-11-12,Home & Kitchen,3015.96,31,Dubai
+2024-11-12,Fashion,3230.97,45,Dubai
+2024-11-12,Groceries,2181.1,62,Abu Dhabi
+2024-11-13,Electronics,5370.66,17,Abu Dhabi
+2024-11-13,Home & Kitchen,3364.88,37,Dubai
+2024-11-13,Fashion,4122.16,59,Dubai
+2024-11-13,Groceries,2428.7,65,Dubai
+2024-11-14,Electronics,5480.44,16,Abu Dhabi
+2024-11-14,Home & Kitchen,3030.68,33,Dubai
+2024-11-14,Fashion,3540.98,51,Dubai
+2024-11-14,Groceries,2112.78,55,Dubai
+2024-11-15,Electronics,6041.54,19,Dubai
+2024-11-15,Home & Kitchen,3895.63,42,Dubai
+2024-11-15,Fashion,4171.55,60,Dubai
+2024-11-15,Groceries,2830.37,77,Dubai
+2024-11-16,Electronics,6893.13,22,Sharjah
+2024-11-16,Home & Kitchen,3533.17,38,Dubai
+2024-11-16,Fashion,5141.68,72,Abu Dhabi
+2024-11-16,Groceries,2562.97,68,Abu Dhabi
+2024-11-17,Electronics,6478.77,18,Dubai
+2024-11-17,Home & Kitchen,4203.57,43,Dubai
+2024-11-17,Fashion,4015.25,56,Dubai
+2024-11-17,Groceries,2625.06,77,Dubai
+2024-11-18,Electronics,5279.03,17,Abu Dhabi
+2024-11-18,Home & Kitchen,3186.56,32,Dubai
+2024-11-18,Fashion,3542.09,48,Sharjah
+2024-11-18,Groceries,2205.24,59,Abu Dhabi
+2024-11-19,Electronics,5411.07,16,Abu Dhabi
+2024-11-19,Home & Kitchen,3587.42,36,Abu Dhabi
+2024-11-19,Fashion,4000.5,59,Dubai
+2024-11-19,Groceries,2062.04,55,Dubai
+2024-11-20,Electronics,5244.01,16,Dubai
+2024-11-20,Home & Kitchen,3357.58,38,Dubai
+2024-11-20,Fashion,3686.28,54,Dubai
+2024-11-20,Groceries,2108.56,55,Abu Dhabi
+2024-11-21,Electronics,5661.94,19,Dubai
+2024-11-21,Home & Kitchen,3038.89,31,Dubai
+2024-11-21,Fashion,4128.49,58,Dubai
+2024-11-21,Groceries,2323.73,58,Dubai
+2024-11-22,Electronics,6908.93,22,Abu Dhabi
+2024-11-22,Home & Kitchen,4170.79,44,Dubai
+2024-11-22,Fashion,4538.27,62,Sharjah
+2024-11-22,Groceries,2625.81,66,Dubai
+2024-11-23,Electronics,6734.84,21,Dubai
+2024-11-23,Home & Kitchen,3246.66,34,Dubai
+2024-11-23,Fashion,4250.04,58,Dubai
+2024-11-23,Groceries,2807.49,76,Abu Dhabi
+2024-11-24,Electronics,5616.88,17,Abu Dhabi
+2024-11-24,Home & Kitchen,4060.08,44,Sharjah
+2024-11-24,Fashion,5198.13,75,Sharjah
+2024-11-24,Groceries,2630.87,72,Dubai
+2024-11-25,Electronics,6131.11,20,Dubai
+2024-11-25,Home & Kitchen,3526.49,35,Sharjah
+2024-11-25,Fashion,4118.35,59,Dubai
+2024-11-25,Groceries,2054.21,58,Dubai
+2024-11-26,Electronics,5218.21,15,Dubai
+2024-11-26,Home & Kitchen,3115.21,31,Dubai
+2024-11-26,Fashion,3941.82,58,Dubai
+2024-11-26,Groceries,2494.6,67,Abu Dhabi
+2024-11-27,Electronics,5870.65,18,Dubai
+2024-11-27,Home & Kitchen,3176.79,34,Sharjah
+2024-11-27,Fashion,3843.37,50,Abu Dhabi
+2024-11-27,Groceries,2027.13,52,Dubai
+2024-11-28,Electronics,5660.38,17,Abu Dhabi
+2024-11-28,Home & Kitchen,3048.15,30,Abu Dhabi
+2024-11-28,Fashion,3239.03,42,Abu Dhabi
+2024-11-28,Groceries,2228.14,63,Abu Dhabi
+2024-11-29,Electronics,5953.38,19,Dubai
+2024-11-29,Home & Kitchen,3235.26,32,Dubai
+2024-11-29,Fashion,4168.36,55,Dubai
+2024-11-29,Groceries,2398.37,57,Dubai
+2024-11-30,Electronics,6594.86,21,Abu Dhabi
+2024-11-30,Home & Kitchen,3734.26,37,Abu Dhabi
+2024-11-30,Fashion,4860.17,70,Abu Dhabi
+2024-11-30,Groceries,3044.61,78,Dubai
+2024-12-01,Electronics,7505.19,23,Abu Dhabi
+2024-12-01,Home & Kitchen,4057.43,45,Sharjah
+2024-12-01,Fashion,4888.13,69,Sharjah
+2024-12-01,Groceries,2721.44,71,Abu Dhabi
+2024-12-02,Electronics,5719.77,20,Abu Dhabi
+2024-12-02,Home & Kitchen,3179.08,33,Abu Dhabi
+2024-12-02,Fashion,3492.52,47,Dubai
+2024-12-02,Groceries,2174.63,61,Dubai
+2024-12-03,Electronics,5643.03,19,Dubai
+2024-12-03,Home & Kitchen,3515.96,35,Dubai
+2024-12-03,Fashion,3742.48,54,Abu Dhabi
+2024-12-03,Groceries,2327.76,57,Abu Dhabi
+2024-12-04,Electronics,5968.02,18,Dubai
+2024-12-04,Home & Kitchen,3388.97,34,Dubai
+2024-12-04,Fashion,3882.75,51,Dubai
+2024-12-04,Groceries,2555.12,67,Abu Dhabi
+2024-12-05,Electronics,5474.9,17,Dubai
+2024-12-05,Home & Kitchen,3203.43,36,Sharjah
+2024-12-05,Fashion,3737.78,46,Dubai
+2024-12-05,Groceries,2427.17,67,Sharjah
+2024-12-06,Electronics,6809.89,20,Sharjah
+2024-12-06,Home & Kitchen,4027.62,41,Dubai
+2024-12-06,Fashion,4504.79,63,Dubai
+2024-12-06,Groceries,2800.44,71,Dubai
+2024-12-07,Electronics,5896.89,17,Dubai
+2024-12-07,Home & Kitchen,4139.89,40,Dubai
+2024-12-07,Fashion,4767.33,67,Sharjah
+2024-12-07,Groceries,2671.19,70,Abu Dhabi
+2024-12-08,Electronics,6565.0,21,Abu Dhabi
+2024-12-08,Home & Kitchen,3957.43,43,Sharjah
+2024-12-08,Fashion,4494.08,64,Abu Dhabi
+2024-12-08,Groceries,2571.77,61,Dubai
+2024-12-09,Electronics,5690.95,18,Abu Dhabi
+2024-12-09,Home & Kitchen,3349.59,35,Abu Dhabi
+2024-12-09,Fashion,3903.93,50,Dubai
+2024-12-09,Groceries,2610.61,71,Dubai
+2024-12-10,Electronics,5131.32,15,Dubai
+2024-12-10,Home & Kitchen,3262.06,32,Dubai
+2024-12-10,Fashion,3523.99,49,Sharjah
+2024-12-10,Groceries,2297.2,60,Sharjah
+2024-12-11,Electronics,5254.71,17,Dubai
+2024-12-11,Home & Kitchen,3396.36,33,Abu Dhabi
+2024-12-11,Fashion,3789.54,53,Dubai
+2024-12-11,Groceries,2122.88,56,Dubai
+2024-12-12,Electronics,5788.87,18,Sharjah
+2024-12-12,Home & Kitchen,3359.47,35,Abu Dhabi
+2024-12-12,Fashion,3978.77,54,Dubai
+2024-12-12,Groceries,2430.1,60,Dubai
+2024-12-13,Electronics,6157.39,18,Dubai
+2024-12-13,Home & Kitchen,3663.58,40,Abu Dhabi
+2024-12-13,Fashion,4348.4,65,Abu Dhabi
+2024-12-13,Groceries,2440.93,68,Dubai
+2024-12-14,Electronics,6201.97,20,Abu Dhabi
+2024-12-14,Home & Kitchen,4082.15,43,Dubai
+2024-12-14,Fashion,4243.55,54,Dubai
+2024-12-14,Groceries,2472.75,65,Abu Dhabi
+2024-12-15,Electronics,6731.63,19,Dubai
+2024-12-15,Home & Kitchen,3715.33,39,Dubai
+2024-12-15,Fashion,4580.4,63,Dubai
+2024-12-15,Groceries,2696.33,79,Dubai
+2024-12-16,Electronics,5562.31,19,Dubai
+2024-12-16,Home & Kitchen,3187.22,32,Dubai
+2024-12-16,Fashion,3575.85,47,Abu Dhabi
+2024-12-16,Groceries,2188.73,61,Dubai
+2024-12-17,Electronics,5769.73,20,Dubai
+2024-12-17,Home & Kitchen,3433.85,36,Dubai
+2024-12-17,Fashion,3513.19,45,Abu Dhabi
+2024-12-17,Groceries,2303.72,66,Dubai
+2024-12-18,Electronics,5893.93,17,Abu Dhabi
+2024-12-18,Home & Kitchen,3553.4,38,Abu Dhabi
+2024-12-18,Fashion,3809.16,51,Abu Dhabi
+2024-12-18,Groceries,2413.72,59,Abu Dhabi
+2024-12-19,Electronics,4991.99,15,Dubai
+2024-12-19,Home & Kitchen,2724.29,27,Abu Dhabi
+2024-12-19,Fashion,3679.38,46,Dubai
+2024-12-19,Groceries,2143.39,56,Abu Dhabi
+2024-12-20,Electronics,6158.97,19,Sharjah
+2024-12-20,Home & Kitchen,3730.51,36,Abu Dhabi
+2024-12-20,Fashion,4740.61,64,Dubai
+2024-12-20,Groceries,2939.66,77,Dubai
+2024-12-21,Electronics,6070.28,19,Abu Dhabi
+2024-12-21,Home & Kitchen,3757.07,38,Abu Dhabi
+2024-12-21,Fashion,4276.74,59,Dubai
+2024-12-21,Groceries,2527.37,70,Dubai
+2024-12-22,Electronics,5712.42,18,Dubai
+2024-12-22,Home & Kitchen,3669.97,40,Sharjah
+2024-12-22,Fashion,5068.4,75,Abu Dhabi
+2024-12-22,Groceries,2774.4,74,Abu Dhabi
+2024-12-23,Electronics,5908.11,17,Dubai
+2024-12-23,Home & Kitchen,3189.75,31,Dubai
+2024-12-23,Fashion,4325.73,61,Sharjah
+2024-12-23,Groceries,2056.67,48,Dubai
+2024-12-24,Electronics,4652.75,15,Abu Dhabi
+2024-12-24,Home & Kitchen,3691.84,39,Abu Dhabi
+2024-12-24,Fashion,3948.53,50,Dubai
+2024-12-24,Groceries,2415.42,61,Abu Dhabi
+2024-12-25,Electronics,5529.95,17,Dubai
+2024-12-25,Home & Kitchen,3012.62,33,Abu Dhabi
+2024-12-25,Fashion,3420.05,44,Abu Dhabi
+2024-12-25,Groceries,2234.37,61,Sharjah
+2024-12-26,Electronics,5678.47,17,Dubai
+2024-12-26,Home & Kitchen,3475.44,37,Dubai
+2024-12-26,Fashion,3368.18,45,Abu Dhabi
+2024-12-26,Groceries,2180.98,54,Dubai
+2024-12-27,Electronics,5203.65,16,Dubai
+2024-12-27,Home & Kitchen,4117.16,38,Dubai
+2024-12-27,Fashion,4483.11,63,Sharjah
+2024-12-27,Groceries,2766.81,68,Dubai
+2024-12-28,Electronics,7189.14,24,Dubai
+2024-12-28,Home & Kitchen,4137.72,42,Abu Dhabi
+2024-12-28,Fashion,4235.95,60,Dubai
+2024-12-28,Groceries,2856.2,80,Sharjah
+2024-12-29,Electronics,6747.78,21,Dubai
+2024-12-29,Home & Kitchen,4229.7,43,Abu Dhabi
+2024-12-29,Fashion,4625.16,58,Dubai
+2024-12-29,Groceries,2877.33,76,Dubai
+2024-12-30,Electronics,5107.77,18,Dubai
+2024-12-30,Home & Kitchen,3080.88,31,Sharjah
+2024-12-30,Fashion,4143.7,56,Abu Dhabi
+2024-12-30,Groceries,2123.5,58,Dubai
+2024-12-31,Electronics,5266.1,16,Dubai
+2024-12-31,Home & Kitchen,2912.79,31,Sharjah
+2024-12-31,Fashion,3803.58,48,Dubai
+2024-12-31,Groceries,2182.32,62,Dubai
+2025-01-01,Electronics,4828.78,15,Dubai
+2025-01-01,Home & Kitchen,3246.59,35,Dubai
+2025-01-01,Fashion,4129.41,59,Dubai
+2025-01-01,Groceries,2104.32,53,Abu Dhabi
+2025-01-02,Electronics,5036.16,17,Dubai
+2025-01-02,Home & Kitchen,3334.95,31,Abu Dhabi
+2025-01-02,Fashion,4005.56,54,Sharjah
+2025-01-02,Groceries,2183.7,58,Dubai
+2025-01-03,Electronics,7319.43,26,Dubai
+2025-01-03,Home & Kitchen,3893.18,42,Abu Dhabi
+2025-01-03,Fashion,4697.11,64,Dubai
+2025-01-03,Groceries,2750.8,80,Dubai
+2025-01-04,Electronics,7468.41,22,Abu Dhabi
+2025-01-04,Home & Kitchen,3425.33,36,Abu Dhabi
+2025-01-04,Fashion,4237.27,56,Dubai
+2025-01-04,Groceries,2595.45,75,Dubai
+2025-01-05,Electronics,6474.53,21,Dubai
+2025-01-05,Home & Kitchen,4295.85,48,Abu Dhabi
+2025-01-05,Fashion,4162.46,54,Dubai
+2025-01-05,Groceries,2675.75,73,Dubai
+2025-01-06,Electronics,5852.12,19,Dubai
+2025-01-06,Home & Kitchen,3529.82,37,Sharjah
+2025-01-06,Fashion,3929.46,50,Dubai
+2025-01-06,Groceries,2395.17,64,Dubai
+2025-01-07,Electronics,5478.66,17,Dubai
+2025-01-07,Home & Kitchen,2848.15,31,Dubai
+2025-01-07,Fashion,4239.7,57,Dubai
+2025-01-07,Groceries,2128.45,56,Abu Dhabi
+2025-01-08,Electronics,5021.49,17,Dubai
+2025-01-08,Home & Kitchen,3130.08,34,Dubai
+2025-01-08,Fashion,3652.92,48,Abu Dhabi
+2025-01-08,Groceries,2158.0,56,Abu Dhabi
+2025-01-09,Electronics,5171.84,17,Sharjah
+2025-01-09,Home & Kitchen,3341.57,33,Abu Dhabi
+2025-01-09,Fashion,3613.01,51,Abu Dhabi
+2025-01-09,Groceries,2130.59,57,Dubai
+2025-01-10,Electronics,6473.14,22,Dubai
+2025-01-10,Home & Kitchen,4029.07,43,Abu Dhabi
+2025-01-10,Fashion,4151.16,54,Abu Dhabi
+2025-01-10,Groceries,2445.68,65,Dubai
+2025-01-11,Electronics,6470.28,20,Dubai
+2025-01-11,Home & Kitchen,3613.56,46,Abu Dhabi
+2025-01-11,Fashion,3788.71,51,Sharjah
+2025-01-11,Groceries,2635.81,70,Dubai
+2025-01-12,Electronics,6315.71,20,Abu Dhabi
+2025-01-12,Home & Kitchen,3510.91,34,Dubai
+2025-01-12,Fashion,4652.48,65,Dubai
+2025-01-12,Groceries,2550.25,65,Sharjah
+2025-01-13,Electronics,5484.99,18,Abu Dhabi
+2025-01-13,Home & Kitchen,3544.33,37,Sharjah
+2025-01-13,Fashion,4066.73,53,Abu Dhabi
+2025-01-13,Groceries,2121.79,49,Dubai
+2025-01-14,Electronics,5592.31,18,Dubai
+2025-01-14,Home & Kitchen,2873.65,29,Dubai
+2025-01-14,Fashion,3619.52,53,Abu Dhabi
+2025-01-14,Groceries,2128.23,60,Abu Dhabi
+2025-01-15,Electronics,5811.34,16,Dubai
+2025-01-15,Home & Kitchen,3032.67,33,Sharjah
+2025-01-15,Fashion,3575.62,51,Dubai
+2025-01-15,Groceries,2320.78,59,Sharjah
+2025-01-16,Electronics,5448.85,17,Dubai
+2025-01-16,Home & Kitchen,2922.59,31,Dubai
+2025-01-16,Fashion,4082.14,53,Abu Dhabi
+2025-01-16,Groceries,1986.8,51,Dubai
+2025-01-17,Electronics,6359.95,20,Dubai
+2025-01-17,Home & Kitchen,3616.42,36,Dubai
+2025-01-17,Fashion,4229.17,59,Dubai
+2025-01-17,Groceries,2698.85,71,Sharjah
+2025-01-18,Electronics,6139.72,21,Abu Dhabi
+2025-01-18,Home & Kitchen,3436.9,34,Dubai
+2025-01-18,Fashion,3809.16,55,Abu Dhabi
+2025-01-18,Groceries,2401.17,67,Abu Dhabi
+2025-01-19,Electronics,6196.18,19,Sharjah
+2025-01-19,Home & Kitchen,3783.47,41,Sharjah
+2025-01-19,Fashion,4474.43,62,Dubai
+2025-01-19,Groceries,2348.24,61,Sharjah
+2025-01-20,Electronics,5234.32,17,Sharjah
+2025-01-20,Home & Kitchen,3676.94,39,Dubai
+2025-01-20,Fashion,3731.5,59,Dubai
+2025-01-20,Groceries,2042.47,50,Dubai
+2025-01-21,Electronics,5031.11,16,Abu Dhabi
+2025-01-21,Home & Kitchen,3128.8,33,Sharjah
+2025-01-21,Fashion,3283.45,46,Sharjah
+2025-01-21,Groceries,2438.99,61,Dubai
+2025-01-22,Electronics,5750.5,17,Dubai
+2025-01-22,Home & Kitchen,3355.71,35,Dubai
+2025-01-22,Fashion,3664.34,50,Abu Dhabi
+2025-01-22,Groceries,2021.11,59,Abu Dhabi
+2025-01-23,Electronics,4548.33,14,Dubai
+2025-01-23,Home & Kitchen,2747.36,27,Dubai
+2025-01-23,Fashion,3634.72,46,Sharjah
+2025-01-23,Groceries,1952.78,48,Abu Dhabi
+2025-01-24,Electronics,6424.14,19,Dubai
+2025-01-24,Home & Kitchen,3512.43,38,Abu Dhabi
+2025-01-24,Fashion,4220.92,63,Abu Dhabi
+2025-01-24,Groceries,2611.78,68,Dubai
+2025-01-25,Electronics,5404.81,18,Sharjah
+2025-01-25,Home & Kitchen,3664.28,39,Dubai
+2025-01-25,Fashion,4222.61,58,Abu Dhabi
+2025-01-25,Groceries,2627.83,70,Dubai
+2025-01-26,Electronics,6408.45,19,Dubai
+2025-01-26,Home & Kitchen,3686.72,38,Dubai
+2025-01-26,Fashion,4530.05,60,Dubai
+2025-01-26,Groceries,2650.36,69,Abu Dhabi
+2025-01-27,Electronics,5246.22,18,Sharjah
+2025-01-27,Home & Kitchen,3106.92,34,Dubai
+2025-01-27,Fashion,3354.06,42,Abu Dhabi
+2025-01-27,Groceries,2132.39,60,Dubai
+2025-01-28,Electronics,5098.12,15,Sharjah
+2025-01-28,Home & Kitchen,2592.31,27,Dubai
+2025-01-28,Fashion,3462.13,53,Abu Dhabi
+2025-01-28,Groceries,2351.27,68,Abu Dhabi
+2025-01-29,Electronics,5024.49,14,Dubai
+2025-01-29,Home & Kitchen,3028.22,30,Abu Dhabi
+2025-01-29,Fashion,3409.35,45,Dubai
+2025-01-29,Groceries,1836.12,43,Abu Dhabi
+2025-01-30,Electronics,4998.35,15,Dubai
+2025-01-30,Home & Kitchen,2770.85,29,Abu Dhabi
+2025-01-30,Fashion,3565.33,46,Dubai
+2025-01-30,Groceries,2165.17,55,Dubai
+2025-01-31,Electronics,6244.73,21,Dubai
+2025-01-31,Home & Kitchen,3717.38,39,Abu Dhabi
+2025-01-31,Fashion,4208.7,60,Dubai
+2025-01-31,Groceries,2442.08,66,Dubai
+2025-02-01,Electronics,6441.68,21,Dubai
+2025-02-01,Home & Kitchen,3518.22,37,Dubai
+2025-02-01,Fashion,3944.1,56,Sharjah
+2025-02-01,Groceries,2411.01,58,Dubai
+2025-02-02,Electronics,6006.44,17,Sharjah
+2025-02-02,Home & Kitchen,3679.3,37,Dubai
+2025-02-02,Fashion,4853.9,66,Dubai
+2025-02-02,Groceries,2672.02,71,Dubai
+2025-02-03,Electronics,4088.53,12,Dubai
+2025-02-03,Home & Kitchen,3198.45,32,Dubai
+2025-02-03,Fashion,3497.46,46,Dubai
+2025-02-03,Groceries,2017.41,50,Dubai
+2025-02-04,Electronics,4677.24,14,Dubai
+2025-02-04,Home & Kitchen,2847.71,29,Abu Dhabi
+2025-02-04,Fashion,3114.17,45,Dubai
+2025-02-04,Groceries,1843.69,47,Sharjah
+2025-02-05,Electronics,5376.03,18,Dubai
+2025-02-05,Home & Kitchen,3042.23,30,Dubai
+2025-02-05,Fashion,3204.61,42,Abu Dhabi
+2025-02-05,Groceries,2109.36,57,Dubai
+2025-02-06,Electronics,5171.95,16,Dubai
+2025-02-06,Home & Kitchen,3028.58,32,Sharjah
+2025-02-06,Fashion,3531.08,48,Dubai
+2025-02-06,Groceries,2106.56,59,Sharjah
+2025-02-07,Electronics,6223.33,19,Dubai
+2025-02-07,Home & Kitchen,3237.67,36,Dubai
+2025-02-07,Fashion,4223.0,53,Dubai
+2025-02-07,Groceries,2263.62,57,Abu Dhabi
+2025-02-08,Electronics,5398.4,15,Abu Dhabi
+2025-02-08,Home & Kitchen,3701.17,37,Abu Dhabi
+2025-02-08,Fashion,4161.52,54,Abu Dhabi
+2025-02-08,Groceries,2169.26,53,Abu Dhabi
+2025-02-09,Electronics,6223.86,19,Dubai
+2025-02-09,Home & Kitchen,3345.26,32,Abu Dhabi
+2025-02-09,Fashion,4212.1,57,Abu Dhabi
+2025-02-09,Groceries,2480.48,62,Sharjah
+2025-02-10,Electronics,5260.0,15,Abu Dhabi
+2025-02-10,Home & Kitchen,2942.93,29,Abu Dhabi
+2025-02-10,Fashion,3587.17,54,Dubai
+2025-02-10,Groceries,1856.07,50,Abu Dhabi
+2025-02-11,Electronics,4959.94,15,Dubai
+2025-02-11,Home & Kitchen,2827.55,28,Dubai
+2025-02-11,Fashion,3211.48,46,Dubai
+2025-02-11,Groceries,1941.93,54,Dubai
+2025-02-12,Electronics,4977.03,16,Sharjah
+2025-02-12,Home & Kitchen,2670.69,27,Dubai
+2025-02-12,Fashion,3660.89,48,Abu Dhabi
+2025-02-12,Groceries,2104.76,59,Dubai
+2025-02-13,Electronics,5458.15,17,Sharjah
+2025-02-13,Home & Kitchen,3021.37,35,Dubai
+2025-02-13,Fashion,3583.25,49,Dubai
+2025-02-13,Groceries,2137.1,59,Sharjah
+2025-02-14,Electronics,5719.93,19,Abu Dhabi
+2025-02-14,Home & Kitchen,3221.55,30,Abu Dhabi
+2025-02-14,Fashion,4562.65,67,Dubai
+2025-02-14,Groceries,2158.57,60,Dubai
+2025-02-15,Electronics,6189.79,21,Abu Dhabi
+2025-02-15,Home & Kitchen,3258.76,34,Abu Dhabi
+2025-02-15,Fashion,4158.08,63,Dubai
+2025-02-15,Groceries,2440.77,65,Dubai
+2025-02-16,Electronics,5193.66,17,Dubai
+2025-02-16,Home & Kitchen,3358.51,37,Dubai
+2025-02-16,Fashion,4414.54,62,Sharjah
+2025-02-16,Groceries,2561.61,65,Dubai
+2025-02-17,Electronics,4767.13,16,Sharjah
+2025-02-17,Home & Kitchen,2808.84,29,Dubai
+2025-02-17,Fashion,3490.67,47,Dubai
+2025-02-17,Groceries,1837.07,54,Abu Dhabi
+2025-02-18,Electronics,4632.68,15,Abu Dhabi
+2025-02-18,Home & Kitchen,2645.11,29,Sharjah
+2025-02-18,Fashion,3376.86,48,Abu Dhabi
+2025-02-18,Groceries,1939.3,53,Abu Dhabi
+2025-02-19,Electronics,5601.61,18,Dubai
+2025-02-19,Home & Kitchen,3166.53,31,Sharjah
+2025-02-19,Fashion,3809.48,52,Dubai
+2025-02-19,Groceries,1930.96,49,Dubai
+2025-02-20,Electronics,4873.41,14,Abu Dhabi
+2025-02-20,Home & Kitchen,2668.42,27,Abu Dhabi
+2025-02-20,Fashion,3582.02,52,Sharjah
+2025-02-20,Groceries,2021.62,48,Dubai
+2025-02-21,Electronics,5893.7,19,Abu Dhabi
+2025-02-21,Home & Kitchen,3216.22,32,Dubai
+2025-02-21,Fashion,3714.85,49,Dubai
+2025-02-21,Groceries,2458.21,67,Dubai
+2025-02-22,Electronics,6204.73,20,Dubai
+2025-02-22,Home & Kitchen,3570.1,34,Dubai
+2025-02-22,Fashion,3190.33,47,Dubai
+2025-02-22,Groceries,2269.0,57,Abu Dhabi
+2025-02-23,Electronics,5486.47,17,Dubai
+2025-02-23,Home & Kitchen,3352.19,36,Dubai
+2025-02-23,Fashion,4108.04,59,Abu Dhabi
+2025-02-23,Groceries,2212.73,63,Abu Dhabi
+2025-02-24,Electronics,4622.12,14,Dubai
+2025-02-24,Home & Kitchen,2683.44,30,Dubai
+2025-02-24,Fashion,3266.4,45,Abu Dhabi
+2025-02-24,Groceries,1842.57,46,Dubai
+2025-02-25,Electronics,4857.08,17,Abu Dhabi
+2025-02-25,Home & Kitchen,2977.97,29,Abu Dhabi
+2025-02-25,Fashion,3444.68,48,Abu Dhabi
+2025-02-25,Groceries,1831.23,45,Dubai
+2025-02-26,Electronics,4763.87,15,Dubai
+2025-02-26,Home & Kitchen,2885.23,31,Abu Dhabi
+2025-02-26,Fashion,3317.22,46,Sharjah
+2025-02-26,Groceries,2050.36,54,Abu Dhabi
+2025-02-27,Electronics,4466.21,14,Abu Dhabi
+2025-02-27,Home & Kitchen,3051.94,35,Dubai
+2025-02-27,Fashion,3058.21,44,Abu Dhabi
+2025-02-27,Groceries,1941.63,49,Abu Dhabi
+2025-02-28,Electronics,5821.05,17,Abu Dhabi
+2025-02-28,Home & Kitchen,3471.62,36,Abu Dhabi
+2025-02-28,Fashion,3792.13,52,Dubai
+2025-02-28,Groceries,2303.69,62,Dubai
+2025-03-01,Electronics,5956.29,20,Abu Dhabi
+2025-03-01,Home & Kitchen,3653.07,44,Dubai
+2025-03-01,Fashion,3987.18,60,Sharjah
+2025-03-01,Groceries,1827.81,44,Dubai
+2025-03-02,Electronics,6003.6,19,Dubai
+2025-03-02,Home & Kitchen,3077.24,31,Dubai
+2025-03-02,Fashion,3717.63,49,Sharjah
+2025-03-02,Groceries,2167.1,56,Dubai
+2025-03-03,Electronics,5153.87,16,Dubai
+2025-03-03,Home & Kitchen,2763.73,30,Abu Dhabi
+2025-03-03,Fashion,3217.64,46,Dubai
+2025-03-03,Groceries,1784.79,44,Dubai
+2025-03-04,Electronics,5034.29,16,Dubai
+2025-03-04,Home & Kitchen,2540.16,25,Abu Dhabi
+2025-03-04,Fashion,3661.78,47,Dubai
+2025-03-04,Groceries,1842.58,47,Abu Dhabi
+2025-03-05,Electronics,5219.01,16,Dubai
+2025-03-05,Home & Kitchen,2620.75,25,Sharjah
+2025-03-05,Fashion,3125.51,40,Sharjah
+2025-03-05,Groceries,1826.51,49,Sharjah
+2025-03-06,Electronics,5003.74,17,Dubai
+2025-03-06,Home & Kitchen,2600.62,26,Dubai
+2025-03-06,Fashion,3168.75,48,Abu Dhabi
+2025-03-06,Groceries,1664.01,43,Dubai
+2025-03-07,Electronics,5542.22,16,Sharjah
+2025-03-07,Home & Kitchen,3360.27,35,Dubai
+2025-03-07,Fashion,3972.88,52,Dubai
+2025-03-07,Groceries,2342.35,60,Dubai
+2025-03-08,Electronics,5710.82,19,Dubai
+2025-03-08,Home & Kitchen,3624.68,37,Dubai
+2025-03-08,Fashion,3797.78,53,Dubai
+2025-03-08,Groceries,1824.5,52,Dubai
+2025-03-09,Electronics,5493.16,17,Dubai
+2025-03-09,Home & Kitchen,3337.34,39,Abu Dhabi
+2025-03-09,Fashion,3479.55,51,Dubai
+2025-03-09,Groceries,2145.73,57,Abu Dhabi
+2025-03-10,Electronics,4497.7,13,Dubai
+2025-03-10,Home & Kitchen,2384.88,24,Dubai
+2025-03-10,Fashion,3219.76,47,Dubai
+2025-03-10,Groceries,1726.56,48,Sharjah
+2025-03-11,Electronics,4604.04,14,Abu Dhabi
+2025-03-11,Home & Kitchen,2690.19,27,Abu Dhabi
+2025-03-11,Fashion,3301.61,49,Abu Dhabi
+2025-03-11,Groceries,1918.63,54,Dubai
+2025-03-12,Electronics,4591.8,15,Dubai
+2025-03-12,Home & Kitchen,2946.35,35,Abu Dhabi
+2025-03-12,Fashion,3592.33,49,Abu Dhabi
+2025-03-12,Groceries,1904.8,45,Dubai
+2025-03-13,Electronics,4636.05,15,Dubai
+2025-03-13,Home & Kitchen,2704.66,27,Sharjah
+2025-03-13,Fashion,3093.97,44,Dubai
+2025-03-13,Groceries,1787.59,47,Abu Dhabi
+2025-03-14,Electronics,1503.52,4,Abu Dhabi
+2025-03-14,Home & Kitchen,846.82,9,Dubai
+2025-03-14,Fashion,905.08,12,Dubai
+2025-03-14,Groceries,509.15,13,Dubai
+2025-03-15,Electronics,4554.16,14,Dubai
+2025-03-15,Home & Kitchen,2902.49,32,Abu Dhabi
+2025-03-15,Fashion,3517.02,44,Abu Dhabi
+2025-03-15,Groceries,2124.87,54,Dubai
+2025-03-16,Electronics,5825.8,18,Dubai
+2025-03-16,Home & Kitchen,3160.33,31,Abu Dhabi
+2025-03-16,Fashion,3344.91,47,Dubai
+2025-03-16,Groceries,2013.41,54,Dubai
+2025-03-17,Electronics,4461.6,14,Dubai
+2025-03-17,Home & Kitchen,2637.59,25,Sharjah
+2025-03-17,Fashion,3715.79,49,Dubai
+2025-03-17,Groceries,1714.91,52,Dubai
+2025-03-18,Electronics,4585.69,13,Dubai
+2025-03-18,Home & Kitchen,2976.57,31,Dubai
+2025-03-18,Fashion,2487.49,34,Dubai
+2025-03-18,Groceries,1854.46,48,Dubai
+2025-03-19,Electronics,4812.78,15,Abu Dhabi
+2025-03-19,Home & Kitchen,2801.34,27,Abu Dhabi
+2025-03-19,Fashion,2727.44,40,Dubai
+2025-03-19,Groceries,1850.53,48,Dubai
+2025-03-20,Electronics,4507.96,14,Dubai
+2025-03-20,Home & Kitchen,2479.36,23,Dubai
+2025-03-20,Fashion,2875.07,42,Dubai
+2025-03-20,Groceries,1722.0,47,Sharjah
+2025-03-21,Electronics,5570.16,18,Dubai
+2025-03-21,Home & Kitchen,2999.41,33,Abu Dhabi
+2025-03-21,Fashion,3621.41,44,Sharjah
+2025-03-21,Groceries,2043.76,51,Dubai
+2025-03-22,Electronics,4759.11,16,Sharjah
+2025-03-22,Home & Kitchen,3126.98,33,Abu Dhabi
+2025-03-22,Fashion,3760.26,51,Abu Dhabi
+2025-03-22,Groceries,1995.36,53,Dubai
+2025-03-23,Electronics,5591.14,17,Dubai
+2025-03-23,Home & Kitchen,2973.3,33,Dubai
+2025-03-23,Fashion,3690.31,50,Abu Dhabi
+2025-03-23,Groceries,2055.27,51,Dubai
+2025-03-24,Electronics,4745.19,15,Dubai
+2025-03-24,Home & Kitchen,2592.15,28,Dubai
+2025-03-24,Fashion,3168.95,45,Sharjah
+2025-03-24,Groceries,1692.87,45,Abu Dhabi
+2025-03-25,Electronics,4201.92,13,Dubai
+2025-03-25,Home & Kitchen,2857.05,29,Dubai
+2025-03-25,Fashion,2900.1,43,Abu Dhabi
+2025-03-25,Groceries,1618.73,40,Abu Dhabi
+2025-03-26,Electronics,4919.7,15,Dubai
+2025-03-26,Home & Kitchen,2591.21,26,Dubai
+2025-03-26,Fashion,3124.17,44,Dubai
+2025-03-26,Groceries,2028.89,53,Sharjah
+2025-03-27,Electronics,4178.04,14,Sharjah
+2025-03-27,Home & Kitchen,2551.57,26,Abu Dhabi
+2025-03-27,Fashion,3437.04,49,Abu Dhabi
+2025-03-27,Groceries,1782.13,45,Dubai
+2025-03-28,Electronics,5155.76,15,Dubai
+2025-03-28,Home & Kitchen,3059.7,30,Dubai
+2025-03-28,Fashion,3548.11,48,Dubai
+2025-03-28,Groceries,2078.94,54,Dubai
+2025-03-29,Electronics,5023.06,17,Dubai
+2025-03-29,Home & Kitchen,3030.41,35,Dubai
+2025-03-29,Fashion,3063.84,41,Dubai
+2025-03-29,Groceries,1865.85,46,Dubai
+2025-03-30,Electronics,4688.48,15,Dubai
+2025-03-30,Home & Kitchen,3021.45,30,Sharjah
+2025-03-30,Fashion,3461.65,51,Sharjah
+2025-03-30,Groceries,1866.35,49,Dubai
+2025-03-31,Electronics,4365.69,13,Sharjah
+2025-03-31,Home & Kitchen,2584.94,28,Dubai
+2025-03-31,Fashion,2751.68,36,Dubai
+2025-03-31,Groceries,1627.21,40,Dubai
+2025-04-01,Electronics,4774.03,15,Abu Dhabi
+2025-04-01,Home & Kitchen,2634.08,28,Dubai
+2025-04-01,Fashion,2577.84,35,Dubai
+2025-04-01,Groceries,1665.26,44,Abu Dhabi
+2025-04-02,Electronics,4174.88,13,Dubai
+2025-04-02,Home & Kitchen,2733.48,28,Dubai
+2025-04-02,Fashion,2738.54,36,Abu Dhabi
+2025-04-02,Groceries,1849.23,52,Abu Dhabi
+2025-04-03,Electronics,4099.9,12,Abu Dhabi
+2025-04-03,Home & Kitchen,2656.0,28,Abu Dhabi
+2025-04-03,Fashion,2626.63,37,Dubai
+2025-04-03,Groceries,1800.95,44,Abu Dhabi
+2025-04-04,Electronics,4678.1,15,Sharjah
+2025-04-04,Home & Kitchen,3209.31,33,Dubai
+2025-04-04,Fashion,3254.62,50,Sharjah
+2025-04-04,Groceries,1800.19,46,Abu Dhabi
+2025-04-05,Electronics,4744.51,15,Dubai
+2025-04-05,Home & Kitchen,2707.64,29,Sharjah
+2025-04-05,Fashion,3172.81,45,Abu Dhabi
+2025-04-05,Groceries,2181.24,63,Dubai
+2025-04-06,Electronics,5024.63,16,Dubai
+2025-04-06,Home & Kitchen,2823.47,28,Abu Dhabi
+2025-04-06,Fashion,3294.33,45,Dubai
+2025-04-06,Groceries,1914.76,47,Dubai
+2025-04-07,Electronics,4283.59,13,Sharjah
+2025-04-07,Home & Kitchen,2300.73,25,Dubai
+2025-04-07,Fashion,2666.57,39,Dubai
+2025-04-07,Groceries,1696.23,48,Sharjah
+2025-04-08,Electronics,4227.89,13,Abu Dhabi
+2025-04-08,Home & Kitchen,2446.09,26,Dubai
+2025-04-08,Fashion,2586.35,36,Dubai
+2025-04-08,Groceries,1507.9,39,Dubai
+2025-04-09,Electronics,4911.72,16,Dubai
+2025-04-09,Home & Kitchen,2537.69,26,Sharjah
+2025-04-09,Fashion,2866.34,39,Dubai
+2025-04-09,Groceries,1655.45,42,Dubai
+2025-04-10,Electronics,4488.73,14,Abu Dhabi
+2025-04-10,Home & Kitchen,2231.67,23,Abu Dhabi
+2025-04-10,Fashion,2698.93,37,Sharjah
+2025-04-10,Groceries,1791.57,42,Dubai
+2025-04-11,Electronics,5068.5,16,Sharjah
+2025-04-11,Home & Kitchen,2929.66,30,Dubai
+2025-04-11,Fashion,3294.06,48,Dubai
+2025-04-11,Groceries,1806.93,46,Dubai
+2025-04-12,Electronics,5291.64,17,Dubai
+2025-04-12,Home & Kitchen,2650.62,27,Sharjah
+2025-04-12,Fashion,3298.12,45,Dubai
+2025-04-12,Groceries,1627.13,42,Abu Dhabi
+2025-04-13,Electronics,5313.65,19,Abu Dhabi
+2025-04-13,Home & Kitchen,2493.25,24,Dubai
+2025-04-13,Fashion,3268.52,46,Abu Dhabi
+2025-04-13,Groceries,1843.58,46,Dubai
+2025-04-14,Electronics,4412.3,14,Dubai
+2025-04-14,Home & Kitchen,2321.23,24,Dubai
+2025-04-14,Fashion,2808.08,38,Dubai
+2025-04-14,Groceries,1510.07,37,Dubai
+2025-04-15,Electronics,3863.27,12,Dubai
+2025-04-15,Home & Kitchen,2703.31,32,Dubai
+2025-04-15,Fashion,2865.55,42,Sharjah
+2025-04-15,Groceries,1636.82,39,Abu Dhabi
+2025-04-16,Electronics,3659.86,11,Dubai
+2025-04-16,Home & Kitchen,2314.49,27,Dubai
+2025-04-16,Fashion,2682.45,35,Dubai
+2025-04-16,Groceries,1541.48,41,Dubai
+2025-04-17,Electronics,4514.5,16,Dubai
+2025-04-17,Home & Kitchen,2656.41,28,Sharjah
+2025-04-17,Fashion,2712.1,37,Dubai
+2025-04-17,Groceries,1524.63,40,Dubai
+2025-04-18,Electronics,4939.71,16,Dubai
+2025-04-18,Home & Kitchen,2750.99,27,Dubai
+2025-04-18,Fashion,3010.19,41,Dubai
+2025-04-18,Groceries,1924.76,49,Dubai
+2025-04-19,Electronics,4983.63,14,Dubai
+2025-04-19,Home & Kitchen,2762.43,29,Dubai
+2025-04-19,Fashion,3293.45,45,Abu Dhabi
+2025-04-19,Groceries,1611.66,41,Dubai
+2025-04-20,Electronics,5069.23,17,Abu Dhabi
+2025-04-20,Home & Kitchen,2658.62,27,Dubai
+2025-04-20,Fashion,2990.37,42,Dubai
+2025-04-20,Groceries,1724.32,49,Sharjah
+2025-04-21,Electronics,4073.27,12,Dubai
+2025-04-21,Home & Kitchen,2229.82,23,Sharjah
+2025-04-21,Fashion,2790.7,38,Abu Dhabi
+2025-04-21,Groceries,1556.53,40,Dubai
+2025-04-22,Electronics,4298.04,12,Abu Dhabi
+2025-04-22,Home & Kitchen,2269.44,26,Dubai
+2025-04-22,Fashion,2586.8,40,Abu Dhabi
+2025-04-22,Groceries,1615.35,44,Dubai
+2025-04-23,Electronics,3760.81,11,Abu Dhabi
+2025-04-23,Home & Kitchen,2268.85,21,Dubai
+2025-04-23,Fashion,2747.23,38,Abu Dhabi
+2025-04-23,Groceries,1542.62,39,Dubai
+2025-04-24,Electronics,4119.16,12,Abu Dhabi
+2025-04-24,Home & Kitchen,2056.75,22,Sharjah
+2025-04-24,Fashion,2850.93,38,Abu Dhabi
+2025-04-24,Groceries,1446.45,40,Dubai
+2025-04-25,Electronics,4768.13,16,Abu Dhabi
+2025-04-25,Home & Kitchen,2844.4,29,Abu Dhabi
+2025-04-25,Fashion,2658.73,37,Dubai
+2025-04-25,Groceries,1779.9,47,Abu Dhabi
+2025-04-26,Electronics,4959.08,16,Abu Dhabi
+2025-04-26,Home & Kitchen,2529.43,27,Abu Dhabi
+2025-04-26,Fashion,2892.1,42,Dubai
+2025-04-26,Groceries,1959.22,51,Abu Dhabi
+2025-04-27,Electronics,4667.24,15,Sharjah
+2025-04-27,Home & Kitchen,2597.38,25,Abu Dhabi
+2025-04-27,Fashion,3261.32,43,Dubai
+2025-04-27,Groceries,1657.42,44,Dubai
+2025-04-28,Electronics,4169.33,13,Abu Dhabi
+2025-04-28,Home & Kitchen,2312.2,25,Dubai
+2025-04-28,Fashion,2448.75,32,Dubai
+2025-04-28,Groceries,1499.13,35,Dubai
+2025-04-29,Electronics,3657.02,11,Dubai
+2025-04-29,Home & Kitchen,2255.85,23,Dubai
+2025-04-29,Fashion,2546.03,30,Dubai
+2025-04-29,Groceries,1460.79,39,Abu Dhabi
+2025-04-30,Electronics,4076.74,12,Sharjah
+2025-04-30,Home & Kitchen,2047.54,20,Dubai
+2025-04-30,Fashion,2554.96,38,Abu Dhabi
+2025-04-30,Groceries,1436.47,37,Dubai
+2025-05-01,Electronics,3968.1,12,Dubai
+2025-05-01,Home & Kitchen,2170.58,23,Dubai
+2025-05-01,Fashion,2140.07,30,Dubai
+2025-05-01,Groceries,1463.58,36,Abu Dhabi
+2025-05-02,Electronics,4700.42,15,Dubai
+2025-05-02,Home & Kitchen,2842.56,28,Dubai
+2025-05-02,Fashion,2824.45,37,Abu Dhabi
+2025-05-02,Groceries,1743.83,45,Dubai
+2025-05-03,Electronics,4896.43,15,Dubai
+2025-05-03,Home & Kitchen,2540.2,26,Dubai
+2025-05-03,Fashion,3256.49,42,Dubai
+2025-05-03,Groceries,1835.09,46,Sharjah
+2025-05-04,Electronics,4906.12,16,Dubai
+2025-05-04,Home & Kitchen,2606.24,29,Sharjah
+2025-05-04,Fashion,3185.35,41,Abu Dhabi
+2025-05-04,Groceries,1654.58,40,Dubai
+2025-05-05,Electronics,4489.03,14,Dubai
+2025-05-05,Home & Kitchen,2403.17,23,Dubai
+2025-05-05,Fashion,2855.17,40,Abu Dhabi
+2025-05-05,Groceries,1453.25,41,Dubai
+2025-05-06,Electronics,4165.89,12,Abu Dhabi
+2025-05-06,Home & Kitchen,2352.41,25,Sharjah
+2025-05-06,Fashion,2515.16,36,Dubai
+2025-05-06,Groceries,1223.97,31,Dubai
+2025-05-07,Electronics,4605.83,14,Dubai
+2025-05-07,Home & Kitchen,2326.85,26,Dubai
+2025-05-07,Fashion,2227.31,28,Dubai
+2025-05-07,Groceries,1363.29,35,Abu Dhabi
+2025-05-08,Electronics,4032.25,12,Abu Dhabi
+2025-05-08,Home & Kitchen,2134.02,22,Abu Dhabi
+2025-05-08,Fashion,2408.23,35,Dubai
+2025-05-08,Groceries,1385.44,34,Sharjah
+2025-05-09,Electronics,4873.42,14,Dubai
+2025-05-09,Home & Kitchen,2773.22,30,Abu Dhabi
+2025-05-09,Fashion,3145.89,40,Dubai
+2025-05-09,Groceries,2027.52,52,Abu Dhabi
+2025-05-10,Electronics,4905.03,15,Abu Dhabi
+2025-05-10,Home & Kitchen,2432.68,24,Dubai
+2025-05-10,Fashion,3111.6,46,Dubai
+2025-05-10,Groceries,1615.27,40,Dubai
+2025-05-11,Electronics,4433.73,13,Dubai
+2025-05-11,Home & Kitchen,2632.46,28,Dubai
+2025-05-11,Fashion,3062.42,41,Abu Dhabi
+2025-05-11,Groceries,1806.51,49,Dubai
+2025-05-12,Electronics,3872.35,12,Dubai
+2025-05-12,Home & Kitchen,1975.13,20,Dubai
+2025-05-12,Fashion,2184.21,33,Abu Dhabi
+2025-05-12,Groceries,1419.18,36,Dubai
+2025-05-13,Electronics,3763.84,12,Dubai
+2025-05-13,Home & Kitchen,2244.14,24,Dubai
+2025-05-13,Fashion,2571.73,38,Dubai
+2025-05-13,Groceries,1576.77,39,Sharjah
+2025-05-14,Electronics,3748.75,12,Dubai
+2025-05-14,Home & Kitchen,2034.9,20,Abu Dhabi
+2025-05-14,Fashion,2590.69,36,Dubai
+2025-05-14,Groceries,1481.92,45,Abu Dhabi
+2025-05-15,Electronics,3838.01,11,Dubai
+2025-05-15,Home & Kitchen,2166.5,23,Dubai
+2025-05-15,Fashion,2442.65,34,Abu Dhabi
+2025-05-15,Groceries,1516.75,41,Sharjah
+2025-05-16,Electronics,4738.87,15,Dubai
+2025-05-16,Home & Kitchen,2665.95,26,Dubai
+2025-05-16,Fashion,2850.98,39,Sharjah
+2025-05-16,Groceries,1921.33,49,Abu Dhabi
+2025-05-17,Electronics,4433.96,15,Dubai
+2025-05-17,Home & Kitchen,2611.03,27,Dubai
+2025-05-17,Fashion,3099.61,41,Dubai
+2025-05-17,Groceries,1846.96,49,Dubai
+2025-05-18,Electronics,5077.61,15,Abu Dhabi
+2025-05-18,Home & Kitchen,2253.85,23,Dubai
+2025-05-18,Fashion,2944.54,43,Abu Dhabi
+2025-05-18,Groceries,1562.88,40,Dubai
+2025-05-19,Electronics,4109.85,13,Sharjah
+2025-05-19,Home & Kitchen,2277.43,24,Dubai
+2025-05-19,Fashion,2878.41,39,Abu Dhabi
+2025-05-19,Groceries,1405.56,36,Sharjah
+2025-05-20,Electronics,3823.92,11,Dubai
+2025-05-20,Home & Kitchen,2373.06,24,Dubai
+2025-05-20,Fashion,2397.31,33,Dubai
+2025-05-20,Groceries,1367.87,34,Abu Dhabi
+2025-05-21,Electronics,3350.34,11,Sharjah
+2025-05-21,Home & Kitchen,1976.96,19,Dubai
+2025-05-21,Fashion,2537.37,33,Dubai
+2025-05-21,Groceries,1394.22,34,Sharjah
+2025-05-22,Electronics,3824.5,12,Dubai
+2025-05-22,Home & Kitchen,2064.44,21,Sharjah
+2025-05-22,Fashion,2431.07,33,Dubai
+2025-05-22,Groceries,1585.85,40,Sharjah
+2025-05-23,Electronics,4380.64,14,Sharjah
+2025-05-23,Home & Kitchen,2520.97,27,Abu Dhabi
+2025-05-23,Fashion,2900.55,42,Dubai
+2025-05-23,Groceries,1919.31,50,Abu Dhabi
+2025-05-24,Electronics,4366.91,14,Dubai
+2025-05-24,Home & Kitchen,2546.99,24,Dubai
+2025-05-24,Fashion,3275.64,47,Sharjah
+2025-05-24,Groceries,1798.0,45,Dubai
+2025-05-25,Electronics,3982.29,12,Dubai
+2025-05-25,Home & Kitchen,3032.84,32,Sharjah
+2025-05-25,Fashion,2700.25,38,Abu Dhabi
+2025-05-25,Groceries,1813.21,48,Dubai
+2025-05-26,Electronics,3630.44,12,Dubai
+2025-05-26,Home & Kitchen,2028.69,23,Dubai
+2025-05-26,Fashion,2287.2,32,Sharjah
+2025-05-26,Groceries,1353.96,34,Abu Dhabi
+2025-05-27,Electronics,4209.03,12,Dubai
+2025-05-27,Home & Kitchen,2142.75,23,Dubai
+2025-05-27,Fashion,2683.53,40,Dubai
+2025-05-27,Groceries,1301.83,35,Dubai
+2025-05-28,Electronics,4371.15,14,Dubai
+2025-05-28,Home & Kitchen,2070.97,20,Abu Dhabi
+2025-05-28,Fashion,2486.5,31,Dubai
+2025-05-28,Groceries,1435.19,36,Dubai
+2025-05-29,Electronics,3814.65,11,Dubai
+2025-05-29,Home & Kitchen,2229.1,23,Dubai
+2025-05-29,Fashion,2489.89,32,Dubai
+2025-05-29,Groceries,1407.82,42,Sharjah
+2025-05-30,Electronics,4730.57,15,Abu Dhabi
+2025-05-30,Home & Kitchen,2357.76,23,Dubai
+2025-05-30,Fashion,2830.85,38,Abu Dhabi
+2025-05-30,Groceries,1686.62,44,Abu Dhabi
+2025-05-31,Electronics,5005.1,15,Dubai
+2025-05-31,Home & Kitchen,2311.18,25,Dubai
+2025-05-31,Fashion,2775.81,36,Abu Dhabi
+2025-05-31,Groceries,1722.18,43,Sharjah
+2025-06-01,Electronics,4223.08,13,Sharjah
+2025-06-01,Home & Kitchen,2344.33,25,Dubai
+2025-06-01,Fashion,2889.65,41,Dubai
+2025-06-01,Groceries,1749.87,43,Dubai
+2025-06-02,Electronics,3821.12,11,Dubai
+2025-06-02,Home & Kitchen,2195.27,23,Abu Dhabi
+2025-06-02,Fashion,2453.15,32,Abu Dhabi
+2025-06-02,Groceries,1329.58,32,Dubai
+2025-06-03,Electronics,3533.77,11,Dubai
+2025-06-03,Home & Kitchen,2079.15,21,Dubai
+2025-06-03,Fashion,2440.27,33,Dubai
+2025-06-03,Groceries,1428.35,40,Dubai
+2025-06-04,Electronics,3580.95,11,Dubai
+2025-06-04,Home & Kitchen,2198.36,25,Dubai
+2025-06-04,Fashion,2422.25,32,Dubai
+2025-06-04,Groceries,1516.65,37,Dubai
+2025-06-05,Electronics,3803.47,12,Sharjah
+2025-06-05,Home & Kitchen,2098.49,21,Dubai
+2025-06-05,Fashion,2475.07,34,Dubai
+2025-06-05,Groceries,1447.87,37,Dubai
+2025-06-06,Electronics,4323.94,14,Dubai
+2025-06-06,Home & Kitchen,2634.92,28,Abu Dhabi
+2025-06-06,Fashion,3385.36,48,Dubai
+2025-06-06,Groceries,1714.9,47,Dubai
+2025-06-07,Electronics,5063.78,15,Abu Dhabi
+2025-06-07,Home & Kitchen,2666.95,27,Dubai
+2025-06-07,Fashion,2888.07,40,Dubai
+2025-06-07,Groceries,1790.16,46,Dubai
+2025-06-08,Electronics,3862.44,11,Dubai
+2025-06-08,Home & Kitchen,2800.84,29,Abu Dhabi
+2025-06-08,Fashion,2977.12,43,Abu Dhabi
+2025-06-08,Groceries,1621.49,40,Abu Dhabi
+2025-06-09,Electronics,3273.01,10,Abu Dhabi
+2025-06-09,Home & Kitchen,1957.26,21,Dubai
+2025-06-09,Fashion,2654.64,39,Dubai
+2025-06-09,Groceries,1628.25,41,Abu Dhabi
+2025-06-10,Electronics,3814.82,13,Dubai
+2025-06-10,Home & Kitchen,2230.94,22,Dubai
+2025-06-10,Fashion,2602.48,35,Dubai
+2025-06-10,Groceries,1292.55,36,Dubai
+2025-06-11,Electronics,3646.11,11,Dubai
+2025-06-11,Home & Kitchen,2438.45,23,Abu Dhabi
+2025-06-11,Fashion,2410.41,32,Dubai
+2025-06-11,Groceries,1320.68,34,Abu Dhabi
+2025-06-12,Electronics,3882.45,11,Dubai
+2025-06-12,Home & Kitchen,2049.35,21,Dubai
+2025-06-12,Fashion,2579.12,37,Dubai
+2025-06-12,Groceries,1466.48,36,Dubai
+2025-06-13,Electronics,4056.59,12,Dubai
+2025-06-13,Home & Kitchen,2815.87,29,Dubai
+2025-06-13,Fashion,3301.22,45,Sharjah
+2025-06-13,Groceries,1510.23,38,Dubai
+2025-06-14,Electronics,4479.16,14,Sharjah
+2025-06-14,Home & Kitchen,2868.54,33,Dubai
+2025-06-14,Fashion,2781.46,36,Sharjah
+2025-06-14,Groceries,1740.06,46,Dubai
+2025-06-15,Electronics,4848.05,15,Dubai
+2025-06-15,Home & Kitchen,2316.82,24,Dubai
+2025-06-15,Fashion,2816.56,37,Dubai
+2025-06-15,Groceries,1468.45,41,Dubai
+2025-06-16,Electronics,3845.5,12,Dubai
+2025-06-16,Home & Kitchen,2292.77,24,Dubai
+2025-06-16,Fashion,2269.11,28,Abu Dhabi
+2025-06-16,Groceries,1412.99,34,Dubai
+2025-06-17,Electronics,3622.0,11,Dubai
+2025-06-17,Home & Kitchen,2369.22,26,Abu Dhabi
+2025-06-17,Fashion,2531.74,33,Dubai
+2025-06-17,Groceries,1397.28,39,Dubai
+2025-06-18,Electronics,4329.25,13,Sharjah
+2025-06-18,Home & Kitchen,2554.47,28,Dubai
+2025-06-18,Fashion,2390.78,33,Sharjah
+2025-06-18,Groceries,1584.76,43,Dubai
+2025-06-19,Electronics,3425.88,10,Dubai
+2025-06-19,Home & Kitchen,2254.18,25,Dubai
+2025-06-19,Fashion,2674.17,37,Dubai
+2025-06-19,Groceries,1487.15,39,Dubai
+2025-06-20,Electronics,4870.97,15,Sharjah
+2025-06-20,Home & Kitchen,2222.44,25,Dubai
+2025-06-20,Fashion,2764.2,36,Abu Dhabi
+2025-06-20,Groceries,1689.83,44,Sharjah
+2025-06-21,Electronics,4467.28,14,Sharjah
+2025-06-21,Home & Kitchen,2193.83,23,Dubai
+2025-06-21,Fashion,2866.86,40,Abu Dhabi
+2025-06-21,Groceries,1638.13,40,Dubai
+2025-06-22,Electronics,4244.31,16,Dubai
+2025-06-22,Home & Kitchen,2236.95,25,Dubai
+2025-06-22,Fashion,3098.87,47,Abu Dhabi
+2025-06-22,Groceries,1752.14,47,Dubai
+2025-06-23,Electronics,3438.81,11,Sharjah
+2025-06-23,Home & Kitchen,2030.4,20,Dubai
+2025-06-23,Fashion,2303.58,33,Dubai
+2025-06-23,Groceries,1406.08,35,Dubai
+2025-06-24,Electronics,3536.78,11,Dubai
+2025-06-24,Home & Kitchen,2061.0,21,Sharjah
+2025-06-24,Fashion,2405.84,33,Dubai
+2025-06-24,Groceries,1375.77,37,Dubai
+2025-06-25,Electronics,4000.04,12,Abu Dhabi
+2025-06-25,Home & Kitchen,2212.97,21,Abu Dhabi
+2025-06-25,Fashion,2263.18,31,Dubai
+2025-06-25,Groceries,1514.68,40,Dubai
+2025-06-26,Electronics,3770.65,13,Sharjah
+2025-06-26,Home & Kitchen,2116.04,21,Dubai
+2025-06-26,Fashion,2434.99,35,Abu Dhabi
+2025-06-26,Groceries,1513.75,40,Dubai
+2025-06-27,Electronics,4241.66,13,Dubai
+2025-06-27,Home & Kitchen,2521.35,27,Dubai
+2025-06-27,Fashion,3004.43,42,Sharjah
+2025-06-27,Groceries,1727.03,44,Abu Dhabi
+2025-06-28,Electronics,4588.89,15,Dubai
+2025-06-28,Home & Kitchen,2536.22,26,Abu Dhabi
+2025-06-28,Fashion,3149.2,44,Abu Dhabi
+2025-06-28,Groceries,1699.69,45,Dubai
+2025-06-29,Electronics,4499.22,13,Dubai
+2025-06-29,Home & Kitchen,2578.96,26,Sharjah
+2025-06-29,Fashion,2942.9,37,Dubai
+2025-06-29,Groceries,1784.43,46,Dubai
+2025-06-30,Electronics,4076.73,13,Abu Dhabi
+2025-06-30,Home & Kitchen,2141.63,22,Abu Dhabi
+2025-06-30,Fashion,2582.72,33,Sharjah
+2025-06-30,Groceries,1282.14,35,Dubai
+2025-07-01,Electronics,3713.48,11,Dubai
+2025-07-01,Home & Kitchen,2133.48,22,Dubai
+2025-07-01,Fashion,2279.65,34,Dubai
+2025-07-01,Groceries,1597.99,45,Abu Dhabi
+2025-07-02,Electronics,4308.08,14,Dubai
+2025-07-02,Home & Kitchen,2135.69,22,Dubai
+2025-07-02,Fashion,2538.16,33,Sharjah
+2025-07-02,Groceries,1490.79,38,Dubai
+2025-07-03,Electronics,4046.16,13,Dubai
+2025-07-03,Home & Kitchen,2268.43,25,Sharjah
+2025-07-03,Fashion,2368.41,34,Dubai
+2025-07-03,Groceries,1260.31,34,Dubai
+2025-07-04,Electronics,4355.98,14,Dubai
+2025-07-04,Home & Kitchen,2849.3,28,Abu Dhabi
+2025-07-04,Fashion,3129.32,44,Dubai
+2025-07-04,Groceries,1665.14,45,Dubai
+2025-07-05,Electronics,4943.18,15,Abu Dhabi
+2025-07-05,Home & Kitchen,2814.03,31,Abu Dhabi
+2025-07-05,Fashion,2762.58,38,Dubai
+2025-07-05,Groceries,1892.32,48,Sharjah
+2025-07-06,Electronics,4690.25,16,Abu Dhabi
+2025-07-06,Home & Kitchen,2758.96,28,Abu Dhabi
+2025-07-06,Fashion,2947.51,40,Dubai
+2025-07-06,Groceries,1872.06,52,Dubai
+2025-07-07,Electronics,3808.05,12,Dubai
+2025-07-07,Home & Kitchen,2365.95,25,Abu Dhabi
+2025-07-07,Fashion,2353.59,35,Dubai
+2025-07-07,Groceries,1464.59,42,Dubai
+2025-07-08,Electronics,4006.64,12,Dubai
+2025-07-08,Home & Kitchen,2389.6,27,Sharjah
+2025-07-08,Fashion,2656.24,36,Dubai
+2025-07-08,Groceries,1449.3,35,Abu Dhabi
+2025-07-09,Electronics,3986.08,13,Dubai
+2025-07-09,Home & Kitchen,2180.51,21,Abu Dhabi
+2025-07-09,Fashion,2405.7,33,Sharjah
+2025-07-09,Groceries,1530.28,39,Dubai
+2025-07-10,Electronics,4191.04,13,Abu Dhabi
+2025-07-10,Home & Kitchen,2231.23,23,Dubai
+2025-07-10,Fashion,2434.07,34,Dubai
+2025-07-10,Groceries,1370.42,40,Sharjah
+2025-07-11,Electronics,4499.94,14,Abu Dhabi
+2025-07-11,Home & Kitchen,2505.85,27,Abu Dhabi
+2025-07-11,Fashion,3571.07,47,Dubai
+2025-07-11,Groceries,1565.82,41,Abu Dhabi
+2025-07-12,Electronics,5036.25,16,Dubai
+2025-07-12,Home & Kitchen,2682.28,29,Abu Dhabi
+2025-07-12,Fashion,3189.09,47,Abu Dhabi
+2025-07-12,Groceries,1718.76,47,Abu Dhabi
+2025-07-13,Electronics,5132.06,16,Dubai
+2025-07-13,Home & Kitchen,2711.26,27,Sharjah
+2025-07-13,Fashion,3151.97,46,Dubai
+2025-07-13,Groceries,1760.6,47,Sharjah
+2025-07-14,Electronics,4388.75,16,Dubai
+2025-07-14,Home & Kitchen,2617.34,26,Sharjah
+2025-07-14,Fashion,2629.96,39,Abu Dhabi
+2025-07-14,Groceries,1570.26,39,Abu Dhabi
+2025-07-15,Electronics,4009.58,12,Dubai
+2025-07-15,Home & Kitchen,2250.77,21,Dubai
+2025-07-15,Fashion,2598.86,33,Abu Dhabi
+2025-07-15,Groceries,1414.08,42,Sharjah
+2025-07-16,Electronics,3992.22,11,Abu Dhabi
+2025-07-16,Home & Kitchen,2345.3,27,Dubai
+2025-07-16,Fashion,2559.57,35,Abu Dhabi
+2025-07-16,Groceries,1601.58,40,Abu Dhabi
+2025-07-17,Electronics,4140.83,13,Dubai
+2025-07-17,Home & Kitchen,2339.09,22,Abu Dhabi
+2025-07-17,Fashion,2522.37,35,Dubai
+2025-07-17,Groceries,1422.53,35,Dubai
+2025-07-18,Electronics,4591.12,14,Dubai
+2025-07-18,Home & Kitchen,2693.98,27,Dubai
+2025-07-18,Fashion,2948.95,39,Dubai
+2025-07-18,Groceries,1731.27,44,Abu Dhabi
+2025-07-19,Electronics,4214.65,13,Dubai
+2025-07-19,Home & Kitchen,2796.87,30,Dubai
+2025-07-19,Fashion,3306.99,42,Abu Dhabi
+2025-07-19,Groceries,1582.58,39,Dubai
+2025-07-20,Electronics,5141.44,16,Abu Dhabi
+2025-07-20,Home & Kitchen,2782.16,28,Dubai
+2025-07-20,Fashion,3011.09,43,Dubai
+2025-07-20,Groceries,1839.56,50,Abu Dhabi
+2025-07-21,Electronics,3860.24,12,Dubai
+2025-07-21,Home & Kitchen,2146.19,22,Dubai
+2025-07-21,Fashion,2613.62,33,Sharjah
+2025-07-21,Groceries,1556.43,43,Abu Dhabi
+2025-07-22,Electronics,4001.76,13,Dubai
+2025-07-22,Home & Kitchen,2488.53,29,Sharjah
+2025-07-22,Fashion,2333.39,30,Dubai
+2025-07-22,Groceries,1475.5,41,Dubai
+2025-07-23,Electronics,4081.02,13,Abu Dhabi
+2025-07-23,Home & Kitchen,2564.08,26,Dubai
+2025-07-23,Fashion,2919.44,41,Abu Dhabi
+2025-07-23,Groceries,1613.27,41,Dubai
+2025-07-24,Electronics,4231.43,14,Dubai
+2025-07-24,Home & Kitchen,2533.51,26,Dubai
+2025-07-24,Fashion,2403.48,33,Sharjah
+2025-07-24,Groceries,1494.99,42,Dubai
+2025-07-25,Electronics,5188.29,17,Dubai
+2025-07-25,Home & Kitchen,2612.62,29,Dubai
+2025-07-25,Fashion,3083.09,45,Dubai
+2025-07-25,Groceries,1694.91,44,Dubai
+2025-07-26,Electronics,5278.42,17,Dubai
+2025-07-26,Home & Kitchen,2562.85,27,Abu Dhabi
+2025-07-26,Fashion,3393.33,48,Dubai
+2025-07-26,Groceries,1680.36,42,Sharjah
+2025-07-27,Electronics,5306.88,16,Dubai
+2025-07-27,Home & Kitchen,2900.84,32,Abu Dhabi
+2025-07-27,Fashion,3458.19,39,Dubai
+2025-07-27,Groceries,1847.17,51,Sharjah
+2025-07-28,Electronics,3783.24,12,Sharjah
+2025-07-28,Home & Kitchen,2206.88,21,Abu Dhabi
+2025-07-28,Fashion,2623.15,37,Dubai
+2025-07-28,Groceries,1406.93,36,Abu Dhabi
+2025-07-29,Electronics,4405.82,14,Sharjah
+2025-07-29,Home & Kitchen,2481.84,28,Dubai
+2025-07-29,Fashion,3026.87,39,Dubai
+2025-07-29,Groceries,1529.24,37,Abu Dhabi
+2025-07-30,Electronics,3860.95,12,Abu Dhabi
+2025-07-30,Home & Kitchen,2637.92,29,Dubai
+2025-07-30,Fashion,2693.62,33,Dubai
+2025-07-30,Groceries,1556.5,41,Dubai
+2025-07-31,Electronics,4540.61,15,Abu Dhabi
+2025-07-31,Home & Kitchen,2208.22,24,Dubai
+2025-07-31,Fashion,2503.65,36,Dubai
+2025-07-31,Groceries,1635.49,41,Sharjah
+2025-08-01,Electronics,4728.32,14,Abu Dhabi
+2025-08-01,Home & Kitchen,2494.78,25,Dubai
+2025-08-01,Fashion,3495.49,49,Sharjah
+2025-08-01,Groceries,1799.96,46,Dubai
+2025-08-02,Electronics,4898.65,17,Abu Dhabi
+2025-08-02,Home & Kitchen,3071.3,31,Dubai
+2025-08-02,Fashion,3032.58,43,Dubai
+2025-08-02,Groceries,1719.09,45,Dubai
+2025-08-03,Electronics,4715.71,14,Sharjah
+2025-08-03,Home & Kitchen,2672.64,29,Dubai
+2025-08-03,Fashion,3204.04,45,Dubai
+2025-08-03,Groceries,1906.0,47,Abu Dhabi
+2025-08-04,Electronics,4224.16,13,Dubai
+2025-08-04,Home & Kitchen,2238.87,24,Abu Dhabi
+2025-08-04,Fashion,2489.0,32,Dubai
+2025-08-04,Groceries,1583.3,40,Abu Dhabi
+2025-08-05,Electronics,4797.92,15,Abu Dhabi
+2025-08-05,Home & Kitchen,2442.23,23,Dubai
+2025-08-05,Fashion,2630.09,37,Sharjah
+2025-08-05,Groceries,1606.32,41,Dubai
+2025-08-06,Electronics,3868.87,11,Dubai
+2025-08-06,Home & Kitchen,2371.87,25,Abu Dhabi
+2025-08-06,Fashion,2834.25,37,Dubai
+2025-08-06,Groceries,1759.73,47,Dubai
+2025-08-07,Electronics,4588.17,13,Dubai
+2025-08-07,Home & Kitchen,2696.94,28,Abu Dhabi
+2025-08-07,Fashion,2969.74,39,Dubai
+2025-08-07,Groceries,1388.93,36,Abu Dhabi
+2025-08-08,Electronics,4818.4,15,Dubai
+2025-08-08,Home & Kitchen,3264.58,36,Sharjah
+2025-08-08,Fashion,3639.17,48,Dubai
+2025-08-08,Groceries,1966.74,50,Dubai
+2025-08-09,Electronics,4982.78,16,Sharjah
+2025-08-09,Home & Kitchen,3010.54,29,Abu Dhabi
+2025-08-09,Fashion,2803.81,39,Dubai
+2025-08-09,Groceries,1974.29,51,Dubai
+2025-08-10,Electronics,5890.39,19,Dubai
+2025-08-10,Home & Kitchen,2933.03,32,Sharjah
+2025-08-10,Fashion,2789.67,40,Dubai
+2025-08-10,Groceries,1881.75,47,Abu Dhabi
+2025-08-11,Electronics,4393.23,12,Sharjah
+2025-08-11,Home & Kitchen,2519.36,28,Dubai
+2025-08-11,Fashion,3013.1,40,Abu Dhabi
+2025-08-11,Groceries,1561.48,39,Abu Dhabi
+2025-08-12,Electronics,4448.77,14,Dubai
+2025-08-12,Home & Kitchen,2586.02,28,Sharjah
+2025-08-12,Fashion,3259.72,43,Dubai
+2025-08-12,Groceries,1654.85,41,Abu Dhabi
+2025-08-13,Electronics,4968.8,14,Dubai
+2025-08-13,Home & Kitchen,2616.83,27,Dubai
+2025-08-13,Fashion,2622.32,36,Sharjah
+2025-08-13,Groceries,1589.03,39,Dubai
+2025-08-14,Electronics,4467.76,13,Sharjah
+2025-08-14,Home & Kitchen,2665.58,29,Abu Dhabi
+2025-08-14,Fashion,2885.83,40,Abu Dhabi
+2025-08-14,Groceries,1600.06,39,Abu Dhabi
+2025-08-15,Electronics,5919.74,18,Abu Dhabi
+2025-08-15,Home & Kitchen,3025.54,30,Dubai
+2025-08-15,Fashion,4166.21,58,Abu Dhabi
+2025-08-15,Groceries,2127.96,53,Dubai
+2025-08-16,Electronics,5389.58,17,Sharjah
+2025-08-16,Home & Kitchen,3236.09,34,Abu Dhabi
+2025-08-16,Fashion,3677.85,49,Dubai
+2025-08-16,Groceries,1853.71,50,Abu Dhabi
+2025-08-17,Electronics,5570.14,17,Abu Dhabi
+2025-08-17,Home & Kitchen,3057.09,32,Abu Dhabi
+2025-08-17,Fashion,3336.77,45,Dubai
+2025-08-17,Groceries,2032.35,59,Sharjah
+2025-08-18,Electronics,4554.95,14,Sharjah
+2025-08-18,Home & Kitchen,2710.84,28,Abu Dhabi
+2025-08-18,Fashion,3056.49,42,Dubai
+2025-08-18,Groceries,1717.82,45,Abu Dhabi
+2025-08-19,Electronics,4710.18,15,Dubai
+2025-08-19,Home & Kitchen,2875.21,30,Abu Dhabi
+2025-08-19,Fashion,2949.64,40,Dubai
+2025-08-19,Groceries,1701.97,46,Dubai
+2025-08-20,Electronics,4493.24,13,Sharjah
+2025-08-20,Home & Kitchen,2449.33,24,Abu Dhabi
+2025-08-20,Fashion,2849.1,38,Abu Dhabi
+2025-08-20,Groceries,1709.77,50,Dubai
+2025-08-21,Electronics,4526.51,14,Dubai
+2025-08-21,Home & Kitchen,2497.8,24,Abu Dhabi
+2025-08-21,Fashion,2569.39,40,Sharjah
+2025-08-21,Groceries,1696.56,46,Dubai
+2025-08-22,Electronics,5190.14,15,Dubai
+2025-08-22,Home & Kitchen,3542.15,37,Dubai
+2025-08-22,Fashion,3765.73,53,Dubai
+2025-08-22,Groceries,2243.7,59,Abu Dhabi
+2025-08-23,Electronics,5641.93,18,Abu Dhabi
+2025-08-23,Home & Kitchen,2904.19,29,Dubai
+2025-08-23,Fashion,3876.53,51,Dubai
+2025-08-23,Groceries,2116.15,54,Abu Dhabi
+2025-08-24,Electronics,6023.27,19,Abu Dhabi
+2025-08-24,Home & Kitchen,2962.3,31,Abu Dhabi
+2025-08-24,Fashion,3385.93,48,Sharjah
+2025-08-24,Groceries,1902.93,48,Abu Dhabi
+2025-08-25,Electronics,4973.24,14,Dubai
+2025-08-25,Home & Kitchen,2396.56,25,Dubai
+2025-08-25,Fashion,2989.29,39,Dubai
+2025-08-25,Groceries,1784.86,47,Dubai
+2025-08-26,Electronics,4760.64,15,Dubai
+2025-08-26,Home & Kitchen,2792.86,29,Dubai
+2025-08-26,Fashion,3146.42,47,Dubai
+2025-08-26,Groceries,1643.57,43,Dubai
+2025-08-27,Electronics,4781.95,16,Dubai
+2025-08-27,Home & Kitchen,2777.88,31,Sharjah
+2025-08-27,Fashion,2834.02,36,Abu Dhabi
+2025-08-27,Groceries,1699.73,44,Abu Dhabi
+2025-08-28,Electronics,4871.78,14,Dubai
+2025-08-28,Home & Kitchen,2896.33,28,Dubai
+2025-08-28,Fashion,3453.81,46,Dubai
+2025-08-28,Groceries,1648.79,41,Dubai
+2025-08-29,Electronics,5580.01,16,Dubai
+2025-08-29,Home & Kitchen,3188.4,33,Dubai
+2025-08-29,Fashion,3948.98,53,Dubai
+2025-08-29,Groceries,2292.19,64,Sharjah
+2025-08-30,Electronics,5440.65,17,Dubai
+2025-08-30,Home & Kitchen,3404.83,37,Dubai
+2025-08-30,Fashion,3938.73,56,Dubai
+2025-08-30,Groceries,2130.92,61,Abu Dhabi
+2025-08-31,Electronics,5988.1,18,Dubai
+2025-08-31,Home & Kitchen,3093.91,33,Dubai
+2025-08-31,Fashion,3707.13,51,Dubai
+2025-08-31,Groceries,2285.45,62,Abu Dhabi
+2025-09-01,Electronics,5574.07,18,Dubai
+2025-09-01,Home & Kitchen,3092.76,33,Dubai
+2025-09-01,Fashion,3156.68,45,Abu Dhabi
+2025-09-01,Groceries,1731.53,43,Dubai
+2025-09-02,Electronics,4926.17,16,Dubai
+2025-09-02,Home & Kitchen,3082.93,36,Sharjah
+2025-09-02,Fashion,3273.84,48,Abu Dhabi
+2025-09-02,Groceries,1944.66,53,Abu Dhabi
+2025-09-03,Electronics,4629.72,14,Dubai
+2025-09-03,Home & Kitchen,2846.52,28,Dubai
+2025-09-03,Fashion,3460.55,46,Sharjah
+2025-09-03,Groceries,1827.49,46,Abu Dhabi
+2025-09-04,Electronics,5510.23,17,Dubai
+2025-09-04,Home & Kitchen,2639.02,27,Dubai
+2025-09-04,Fashion,3102.79,42,Abu Dhabi
+2025-09-04,Groceries,1972.83,54,Sharjah
+2025-09-05,Electronics,5571.54,18,Abu Dhabi
+2025-09-05,Home & Kitchen,3122.33,32,Dubai
+2025-09-05,Fashion,4341.37,58,Sharjah
+2025-09-05,Groceries,1981.96,50,Dubai
+2025-09-06,Electronics,6239.6,19,Dubai
+2025-09-06,Home & Kitchen,3082.26,34,Sharjah
+2025-09-06,Fashion,3582.08,52,Abu Dhabi
+2025-09-06,Groceries,2155.35,55,Dubai
+2025-09-07,Electronics,5786.25,18,Sharjah
+2025-09-07,Home & Kitchen,3196.1,32,Dubai
+2025-09-07,Fashion,3968.7,55,Abu Dhabi
+2025-09-07,Groceries,2409.54,64,Abu Dhabi
+2025-09-08,Electronics,5506.25,17,Dubai
+2025-09-08,Home & Kitchen,2699.05,27,Abu Dhabi
+2025-09-08,Fashion,3063.99,43,Dubai
+2025-09-08,Groceries,1757.38,51,Abu Dhabi
+2025-09-09,Electronics,5684.73,17,Abu Dhabi
+2025-09-09,Home & Kitchen,3070.13,30,Abu Dhabi
+2025-09-09,Fashion,3441.95,50,Dubai
+2025-09-09,Groceries,1764.44,49,Dubai
+2025-09-10,Electronics,5317.49,16,Abu Dhabi
+2025-09-10,Home & Kitchen,3231.95,31,Abu Dhabi
+2025-09-10,Fashion,3140.44,43,Dubai
+2025-09-10,Groceries,1789.86,49,Dubai
+2025-09-11,Electronics,4433.74,14,Dubai
+2025-09-11,Home & Kitchen,2952.47,29,Sharjah
+2025-09-11,Fashion,3423.01,47,Abu Dhabi
+2025-09-11,Groceries,1816.35,47,Sharjah
+2025-09-12,Electronics,6838.63,21,Dubai
+2025-09-12,Home & Kitchen,3248.97,34,Dubai
+2025-09-12,Fashion,3947.92,54,Sharjah
+2025-09-12,Groceries,2320.25,60,Abu Dhabi
+2025-09-13,Electronics,6209.35,18,Sharjah
+2025-09-13,Home & Kitchen,3843.31,38,Dubai
+2025-09-13,Fashion,4111.56,57,Abu Dhabi
+2025-09-13,Groceries,2151.92,59,Dubai
+2025-09-14,Electronics,6196.05,19,Dubai
+2025-09-14,Home & Kitchen,2696.67,27,Sharjah
+2025-09-14,Fashion,3931.71,57,Dubai
+2025-09-14,Groceries,2411.15,69,Abu Dhabi
+2025-09-15,Electronics,5237.68,18,Dubai
+2025-09-15,Home & Kitchen,2942.14,31,Dubai
+2025-09-15,Fashion,4049.09,57,Abu Dhabi
+2025-09-15,Groceries,1749.67,46,Abu Dhabi
+2025-09-16,Electronics,5258.48,17,Dubai
+2025-09-16,Home & Kitchen,2846.47,32,Dubai
+2025-09-16,Fashion,3228.51,43,Dubai
+2025-09-16,Groceries,1833.72,48,Dubai
+2025-09-17,Electronics,6066.31,20,Dubai
+2025-09-17,Home & Kitchen,3107.72,34,Dubai
+2025-09-17,Fashion,3368.04,47,Dubai
+2025-09-17,Groceries,2020.35,50,Dubai
+2025-09-18,Electronics,5400.52,15,Dubai
+2025-09-18,Home & Kitchen,3014.53,30,Abu Dhabi
+2025-09-18,Fashion,3495.47,48,Dubai
+2025-09-18,Groceries,2060.94,54,Dubai
+2025-09-19,Electronics,6289.31,20,Sharjah
+2025-09-19,Home & Kitchen,3237.26,32,Dubai
+2025-09-19,Fashion,4429.97,57,Sharjah
+2025-09-19,Groceries,2477.39,67,Dubai
+2025-09-20,Electronics,7157.45,24,Dubai
+2025-09-20,Home & Kitchen,3598.22,38,Abu Dhabi
+2025-09-20,Fashion,4089.35,58,Abu Dhabi
+2025-09-20,Groceries,2439.31,68,Dubai
+2025-09-21,Electronics,6220.76,21,Dubai
+2025-09-21,Home & Kitchen,3563.66,37,Dubai
+2025-09-21,Fashion,3835.81,51,Dubai
+2025-09-21,Groceries,2108.56,51,Dubai
+2025-09-22,Electronics,4798.78,16,Dubai
+2025-09-22,Home & Kitchen,2761.09,29,Dubai
+2025-09-22,Fashion,3522.71,56,Abu Dhabi
+2025-09-22,Groceries,1752.27,43,Dubai
+2025-09-23,Electronics,4783.92,15,Sharjah
+2025-09-23,Home & Kitchen,2971.18,31,Abu Dhabi
+2025-09-23,Fashion,3689.6,50,Abu Dhabi
+2025-09-23,Groceries,1916.64,51,Dubai
+2025-09-24,Electronics,5552.08,18,Dubai
+2025-09-24,Home & Kitchen,3231.48,33,Sharjah
+2025-09-24,Fashion,3036.89,41,Sharjah
+2025-09-24,Groceries,1820.26,50,Sharjah
+2025-09-25,Electronics,5791.96,19,Dubai
+2025-09-25,Home & Kitchen,3047.71,32,Dubai
+2025-09-25,Fashion,3074.71,47,Dubai
+2025-09-25,Groceries,1937.14,50,Abu Dhabi
+2025-09-26,Electronics,7425.27,24,Abu Dhabi
+2025-09-26,Home & Kitchen,3161.48,32,Abu Dhabi
+2025-09-26,Fashion,3981.36,52,Sharjah
+2025-09-26,Groceries,2534.43,65,Dubai
+2025-09-27,Electronics,6218.02,21,Abu Dhabi
+2025-09-27,Home & Kitchen,3685.65,37,Dubai
+2025-09-27,Fashion,4053.22,56,Abu Dhabi
+2025-09-27,Groceries,2457.6,63,Dubai
+2025-09-28,Electronics,6846.77,21,Dubai
+2025-09-28,Home & Kitchen,3819.29,39,Dubai
+2025-09-28,Fashion,3963.29,50,Abu Dhabi
+2025-09-28,Groceries,2284.16,55,Dubai
+2025-09-29,Electronics,5108.91,17,Dubai
+2025-09-29,Home & Kitchen,2826.09,30,Abu Dhabi
+2025-09-29,Fashion,3921.4,51,Abu Dhabi
+2025-09-29,Groceries,1990.38,53,Dubai
+2025-09-30,Electronics,5815.87,19,Sharjah
+2025-09-30,Home & Kitchen,2990.89,32,Dubai
+2025-09-30,Fashion,3447.37,46,Dubai
+2025-09-30,Groceries,1656.63,42,Abu Dhabi
+2025-10-01,Electronics,6019.29,21,Abu Dhabi
+2025-10-01,Home & Kitchen,3175.01,32,Dubai
+2025-10-01,Fashion,3196.92,42,Dubai
+2025-10-01,Groceries,1908.23,52,Dubai
+2025-10-02,Electronics,5950.3,19,Dubai
+2025-10-02,Home & Kitchen,3269.91,37,Dubai
+2025-10-02,Fashion,3410.82,48,Dubai
+2025-10-02,Groceries,1710.77,43,Abu Dhabi
+2025-10-03,Electronics,6570.63,22,Abu Dhabi
+2025-10-03,Home & Kitchen,3552.86,36,Dubai
+2025-10-03,Fashion,4360.3,61,Dubai
+2025-10-03,Groceries,1963.57,54,Abu Dhabi
+2025-10-04,Electronics,5966.22,18,Dubai
+2025-10-04,Home & Kitchen,3727.9,41,Dubai
+2025-10-04,Fashion,4212.63,58,Dubai
+2025-10-04,Groceries,2702.1,71,Abu Dhabi
+2025-10-05,Electronics,7129.33,22,Dubai
+2025-10-05,Home & Kitchen,4180.47,46,Abu Dhabi
+2025-10-05,Fashion,4507.61,62,Abu Dhabi
+2025-10-05,Groceries,1859.99,50,Dubai
+2025-10-06,Electronics,4980.54,16,Dubai
+2025-10-06,Home & Kitchen,3286.07,31,Dubai
+2025-10-06,Fashion,3559.2,47,Dubai
+2025-10-06,Groceries,1995.92,48,Dubai
+2025-10-07,Electronics,5927.25,21,Dubai
+2025-10-07,Home & Kitchen,3254.41,34,Dubai
+2025-10-07,Fashion,4327.48,60,Dubai
+2025-10-07,Groceries,2041.26,54,Sharjah
+2025-10-08,Electronics,5695.45,17,Dubai
+2025-10-08,Home & Kitchen,2911.18,30,Dubai
+2025-10-08,Fashion,3452.95,45,Sharjah
+2025-10-08,Groceries,1873.15,48,Dubai
+2025-10-09,Electronics,6376.93,20,Dubai
+2025-10-09,Home & Kitchen,3037.81,34,Dubai
+2025-10-09,Fashion,3642.08,49,Dubai
+2025-10-09,Groceries,2064.32,55,Dubai
+2025-10-10,Electronics,7202.6,23,Dubai
+2025-10-10,Home & Kitchen,3305.63,36,Abu Dhabi
+2025-10-10,Fashion,4759.45,65,Dubai
+2025-10-10,Groceries,2176.06,56,Dubai
+2025-10-11,Electronics,6119.18,19,Abu Dhabi
+2025-10-11,Home & Kitchen,3901.42,43,Abu Dhabi
+2025-10-11,Fashion,3803.51,49,Abu Dhabi
+2025-10-11,Groceries,2199.35,54,Sharjah
+2025-10-12,Electronics,6536.94,18,Dubai
+2025-10-12,Home & Kitchen,3879.0,38,Dubai
+2025-10-12,Fashion,4559.69,63,Dubai
+2025-10-12,Groceries,2219.71,57,Sharjah
+2025-10-13,Electronics,5427.32,17,Sharjah
+2025-10-13,Home & Kitchen,3581.17,40,Dubai
+2025-10-13,Fashion,3540.82,49,Abu Dhabi
+2025-10-13,Groceries,2156.57,57,Dubai
+2025-10-14,Electronics,5854.11,18,Abu Dhabi
+2025-10-14,Home & Kitchen,3118.27,36,Dubai
+2025-10-14,Fashion,3872.7,53,Dubai
+2025-10-14,Groceries,1970.26,54,Sharjah
+2025-10-15,Electronics,5766.16,19,Sharjah
+2025-10-15,Home & Kitchen,3173.3,32,Dubai
+2025-10-15,Fashion,3646.23,56,Dubai
+2025-10-15,Groceries,2032.54,56,Sharjah
+2025-10-16,Electronics,6044.11,20,Sharjah
+2025-10-16,Home & Kitchen,3157.56,32,Dubai
+2025-10-16,Fashion,3265.29,45,Dubai
+2025-10-16,Groceries,2149.66,57,Dubai
+2025-10-17,Electronics,7370.97,22,Abu Dhabi
+2025-10-17,Home & Kitchen,4128.92,42,Dubai
+2025-10-17,Fashion,4583.99,62,Dubai
+2025-10-17,Groceries,2455.06,57,Abu Dhabi
+2025-10-18,Electronics,6856.95,22,Dubai
+2025-10-18,Home & Kitchen,3925.57,43,Sharjah
+2025-10-18,Fashion,4419.02,66,Dubai
+2025-10-18,Groceries,2460.62,61,Sharjah
+2025-10-19,Electronics,7172.27,23,Dubai
+2025-10-19,Home & Kitchen,3655.28,38,Abu Dhabi
+2025-10-19,Fashion,4363.28,60,Dubai
+2025-10-19,Groceries,2385.11,62,Dubai
+2025-10-20,Electronics,5749.22,20,Abu Dhabi
+2025-10-20,Home & Kitchen,3644.4,38,Dubai
+2025-10-20,Fashion,3434.02,44,Dubai
+2025-10-20,Groceries,2190.92,57,Dubai
+2025-10-21,Electronics,6387.0,20,Dubai
+2025-10-21,Home & Kitchen,3400.64,35,Abu Dhabi
+2025-10-21,Fashion,3816.95,54,Dubai
+2025-10-21,Groceries,1981.96,56,Dubai
+2025-10-22,Electronics,5767.59,18,Abu Dhabi
+2025-10-22,Home & Kitchen,2913.74,30,Abu Dhabi
+2025-10-22,Fashion,3433.87,48,Dubai
+2025-10-22,Groceries,1812.74,47,Abu Dhabi
+2025-10-23,Electronics,5942.82,19,Abu Dhabi
+2025-10-23,Home & Kitchen,3275.26,36,Dubai
+2025-10-23,Fashion,3873.46,54,Dubai
+2025-10-23,Groceries,2111.08,53,Dubai
+2025-10-24,Electronics,6577.08,20,Dubai
+2025-10-24,Home & Kitchen,3641.48,39,Dubai
+2025-10-24,Fashion,4278.69,59,Abu Dhabi
+2025-10-24,Groceries,2491.42,70,Abu Dhabi
+2025-10-25,Electronics,7572.2,23,Abu Dhabi
+2025-10-25,Home & Kitchen,4027.75,40,Dubai
+2025-10-25,Fashion,4312.51,55,Dubai
+2025-10-25,Groceries,2609.95,62,Abu Dhabi
+2025-10-26,Electronics,6684.2,20,Dubai
+2025-10-26,Home & Kitchen,4050.63,42,Dubai
+2025-10-26,Fashion,4582.33,65,Dubai
+2025-10-26,Groceries,2605.86,71,Dubai
+2025-10-27,Electronics,5889.38,19,Sharjah
+2025-10-27,Home & Kitchen,3581.95,34,Dubai
+2025-10-27,Fashion,4014.87,52,Dubai
+2025-10-27,Groceries,2049.71,52,Dubai
+2025-10-28,Electronics,6011.39,19,Dubai
+2025-10-28,Home & Kitchen,3288.3,36,Dubai
+2025-10-28,Fashion,3748.91,51,Sharjah
+2025-10-28,Groceries,2216.29,60,Abu Dhabi
+2025-10-29,Electronics,5396.06,19,Abu Dhabi
+2025-10-29,Home & Kitchen,3719.73,43,Dubai
+2025-10-29,Fashion,4151.41,59,Abu Dhabi
+2025-10-29,Groceries,2386.46,59,Abu Dhabi
+2025-10-30,Electronics,6360.56,21,Sharjah
+2025-10-30,Home & Kitchen,3261.75,36,Abu Dhabi
+2025-10-30,Fashion,4381.11,62,Dubai
+2025-10-30,Groceries,2019.69,52,Dubai
+2025-10-31,Electronics,7005.92,24,Abu Dhabi
+2025-10-31,Home & Kitchen,3775.43,39,Dubai
+2025-10-31,Fashion,4789.83,60,Abu Dhabi
+2025-10-31,Groceries,2489.88,70,Dubai
+2025-11-01,Electronics,6148.15,20,Dubai
+2025-11-01,Home & Kitchen,4084.48,40,Dubai
+2025-11-01,Fashion,4041.56,57,Dubai
+2025-11-01,Groceries,2722.08,65,Abu Dhabi
+2025-11-02,Electronics,7069.42,22,Dubai
+2025-11-02,Home & Kitchen,3654.21,38,Dubai
+2025-11-02,Fashion,4602.49,67,Dubai
+2025-11-02,Groceries,2209.71,55,Abu Dhabi
+2025-11-03,Electronics,6042.05,19,Sharjah
+2025-11-03,Home & Kitchen,3147.66,36,Abu Dhabi
+2025-11-03,Fashion,3873.95,53,Dubai
+2025-11-03,Groceries,2120.88,54,Dubai
+2025-11-04,Electronics,6686.74,21,Dubai
+2025-11-04,Home & Kitchen,3345.62,34,Abu Dhabi
+2025-11-04,Fashion,3260.28,45,Abu Dhabi
+2025-11-04,Groceries,2094.75,61,Dubai
+2025-11-05,Electronics,5822.69,18,Abu Dhabi
+2025-11-05,Home & Kitchen,3014.91,32,Abu Dhabi
+2025-11-05,Fashion,3568.8,50,Abu Dhabi
+2025-11-05,Groceries,2151.31,56,Abu Dhabi
+2025-11-06,Electronics,6389.22,21,Dubai
+2025-11-06,Home & Kitchen,3262.21,34,Abu Dhabi
+2025-11-06,Fashion,3598.15,46,Dubai
+2025-11-06,Groceries,2095.72,55,Dubai
+2025-11-07,Electronics,8044.24,25,Dubai
+2025-11-07,Home & Kitchen,3161.7,32,Dubai
+2025-11-07,Fashion,5146.55,71,Sharjah
+2025-11-07,Groceries,2640.78,71,Sharjah
+2025-11-08,Electronics,7028.4,21,Dubai
+2025-11-08,Home & Kitchen,4253.11,47,Dubai
+2025-11-08,Fashion,4160.87,57,Dubai
+2025-11-08,Groceries,2773.94,71,Dubai
+2025-11-09,Electronics,7406.95,23,Abu Dhabi
+2025-11-09,Home & Kitchen,3521.78,35,Sharjah
+2025-11-09,Fashion,4414.35,61,Dubai
+2025-11-09,Groceries,2823.16,72,Abu Dhabi
+2025-11-10,Electronics,6028.35,20,Abu Dhabi
+2025-11-10,Home & Kitchen,3461.26,36,Abu Dhabi
+2025-11-10,Fashion,4053.48,54,Abu Dhabi
+2025-11-10,Groceries,2258.47,58,Abu Dhabi
+2025-11-11,Electronics,6468.3,22,Sharjah
+2025-11-11,Home & Kitchen,3139.93,31,Abu Dhabi
+2025-11-11,Fashion,4157.87,57,Abu Dhabi
+2025-11-11,Groceries,2324.76,60,Abu Dhabi
+2025-11-12,Electronics,6310.79,19,Abu Dhabi
+2025-11-12,Home & Kitchen,3511.88,39,Dubai
+2025-11-12,Fashion,3894.32,49,Dubai
+2025-11-12,Groceries,2152.03,53,Dubai
+2025-11-13,Electronics,6274.86,20,Dubai
+2025-11-13,Home & Kitchen,3693.31,37,Abu Dhabi
+2025-11-13,Fashion,3563.3,48,Dubai
+2025-11-13,Groceries,2071.78,57,Abu Dhabi
+2025-11-14,Electronics,6604.32,23,Abu Dhabi
+2025-11-14,Home & Kitchen,3894.68,41,Abu Dhabi
+2025-11-14,Fashion,4681.04,65,Sharjah
+2025-11-14,Groceries,2480.5,63,Sharjah
+2025-11-15,Electronics,7913.43,24,Dubai
+2025-11-15,Home & Kitchen,3811.36,40,Dubai
+2025-11-15,Fashion,4064.62,52,Abu Dhabi
+2025-11-15,Groceries,2454.18,63,Sharjah
+2025-11-16,Electronics,7061.26,22,Dubai
+2025-11-16,Home & Kitchen,3699.57,40,Dubai
+2025-11-16,Fashion,4241.83,55,Sharjah
+2025-11-16,Groceries,2882.66,72,Abu Dhabi
+2025-11-17,Electronics,6386.2,19,Dubai
+2025-11-17,Home & Kitchen,3192.84,33,Abu Dhabi
+2025-11-17,Fashion,3488.33,46,Dubai
+2025-11-17,Groceries,2161.06,57,Dubai
+2025-11-18,Electronics,6797.75,21,Dubai
+2025-11-18,Home & Kitchen,3866.25,43,Sharjah
+2025-11-18,Fashion,3947.77,51,Dubai
+2025-11-18,Groceries,2341.98,61,Sharjah
+2025-11-19,Electronics,6501.84,18,Abu Dhabi
+2025-11-19,Home & Kitchen,3782.79,38,Dubai
+2025-11-19,Fashion,3748.69,50,Dubai
+2025-11-19,Groceries,1975.58,50,Abu Dhabi
+2025-11-20,Electronics,6995.06,22,Abu Dhabi
+2025-11-20,Home & Kitchen,3515.01,36,Dubai
+2025-11-20,Fashion,3807.07,53,Abu Dhabi
+2025-11-20,Groceries,2358.27,58,Dubai
+2025-11-21,Electronics,7408.64,25,Abu Dhabi
+2025-11-21,Home & Kitchen,4372.56,46,Sharjah
+2025-11-21,Fashion,5029.09,69,Dubai
+2025-11-21,Groceries,2636.56,75,Abu Dhabi
+2025-11-22,Electronics,7308.01,22,Sharjah
+2025-11-22,Home & Kitchen,4008.64,44,Dubai
+2025-11-22,Fashion,4641.41,61,Sharjah
+2025-11-22,Groceries,2612.63,67,Abu Dhabi
+2025-11-23,Electronics,7590.37,22,Abu Dhabi
+2025-11-23,Home & Kitchen,4088.21,42,Abu Dhabi
+2025-11-23,Fashion,4270.51,58,Dubai
+2025-11-23,Groceries,2504.49,72,Abu Dhabi
+2025-11-24,Electronics,5855.08,18,Dubai
+2025-11-24,Home & Kitchen,3945.68,41,Dubai
+2025-11-24,Fashion,3782.7,55,Abu Dhabi
+2025-11-24,Groceries,2419.12,64,Sharjah
+2025-11-25,Electronics,5976.02,18,Dubai
+2025-11-25,Home & Kitchen,3169.46,31,Abu Dhabi
+2025-11-25,Fashion,3409.58,50,Abu Dhabi
+2025-11-25,Groceries,2340.55,62,Dubai
+2025-11-26,Electronics,6716.87,21,Dubai
+2025-11-26,Home & Kitchen,3437.15,34,Sharjah
+2025-11-26,Fashion,4383.14,61,Dubai
+2025-11-26,Groceries,2292.21,58,Dubai
+2025-11-27,Electronics,6505.29,22,Dubai
+2025-11-27,Home & Kitchen,3710.48,40,Sharjah
+2025-11-27,Fashion,3823.06,48,Dubai
+2025-11-27,Groceries,2014.3,55,Dubai
+2025-11-28,Electronics,24419.4,78,Abu Dhabi
+2025-11-28,Home & Kitchen,4200.49,43,Dubai
+2025-11-28,Fashion,4592.49,62,Dubai
+2025-11-28,Groceries,2729.81,73,Abu Dhabi
+2025-11-29,Electronics,7140.81,22,Dubai
+2025-11-29,Home & Kitchen,4015.39,41,Dubai
+2025-11-29,Fashion,4273.64,54,Dubai
+2025-11-29,Groceries,2541.73,62,Dubai
+2025-11-30,Electronics,6973.55,19,Abu Dhabi
+2025-11-30,Home & Kitchen,4077.55,45,Dubai
+2025-11-30,Fashion,4210.1,58,Sharjah
+2025-11-30,Groceries,2626.45,69,Abu Dhabi
+2025-12-01,Electronics,6015.73,18,Dubai
+2025-12-01,Home & Kitchen,3573.38,37,Abu Dhabi
+2025-12-01,Fashion,3913.21,56,Abu Dhabi
+2025-12-01,Groceries,2260.14,59,Abu Dhabi
+2025-12-02,Electronics,6102.08,20,Dubai
+2025-12-02,Home & Kitchen,3563.85,37,Dubai
+2025-12-02,Fashion,3931.56,58,Dubai
+2025-12-02,Groceries,2183.14,62,Dubai
+2025-12-03,Electronics,5877.12,18,Dubai
+2025-12-03,Home & Kitchen,3586.52,38,Abu Dhabi
+2025-12-03,Fashion,3492.86,47,Dubai
+2025-12-03,Groceries,2308.07,55,Dubai
+2025-12-04,Electronics,6540.51,21,Dubai
+2025-12-04,Home & Kitchen,3430.53,37,Dubai
+2025-12-04,Fashion,3411.35,46,Abu Dhabi
+2025-12-04,Groceries,2210.91,61,Abu Dhabi
+2025-12-05,Electronics,7322.34,24,Abu Dhabi
+2025-12-05,Home & Kitchen,4028.95,43,Abu Dhabi
+2025-12-05,Fashion,4281.6,58,Dubai
+2025-12-05,Groceries,2656.38,69,Sharjah
+2025-12-06,Electronics,7044.61,23,Sharjah
+2025-12-06,Home & Kitchen,4195.1,42,Dubai
+2025-12-06,Fashion,4459.6,61,Dubai
+2025-12-06,Groceries,2177.78,59,Abu Dhabi
+2025-12-07,Electronics,6740.07,23,Sharjah
+2025-12-07,Home & Kitchen,3910.26,44,Dubai
+2025-12-07,Fashion,4674.24,66,Abu Dhabi
+2025-12-07,Groceries,2438.52,59,Sharjah
+2025-12-08,Electronics,5819.72,18,Sharjah
+2025-12-08,Home & Kitchen,3854.56,44,Abu Dhabi
+2025-12-08,Fashion,3976.07,53,Dubai
+2025-12-08,Groceries,2232.65,53,Abu Dhabi
+2025-12-09,Electronics,6480.06,20,Dubai
+2025-12-09,Home & Kitchen,3434.3,37,Dubai
+2025-12-09,Fashion,3599.36,51,Abu Dhabi
+2025-12-09,Groceries,2236.11,64,Sharjah
+2025-12-10,Electronics,7159.2,21,Abu Dhabi
+2025-12-10,Home & Kitchen,3359.94,33,Dubai
+2025-12-10,Fashion,4057.89,58,Abu Dhabi
+2025-12-10,Groceries,2054.59,53,Dubai
+2025-12-11,Electronics,6102.88,19,Dubai
+2025-12-11,Home & Kitchen,3392.6,34,Abu Dhabi
+2025-12-11,Fashion,4241.88,67,Sharjah
+2025-12-11,Groceries,2251.93,64,Dubai
+2025-12-12,Electronics,8009.28,27,Abu Dhabi
+2025-12-12,Home & Kitchen,4303.8,46,Dubai
+2025-12-12,Fashion,4323.6,59,Dubai
+2025-12-12,Groceries,2623.08,77,Sharjah
+2025-12-13,Electronics,7575.53,25,Abu Dhabi
+2025-12-13,Home & Kitchen,3625.93,34,Sharjah
+2025-12-13,Fashion,5108.23,71,Dubai
+2025-12-13,Groceries,2580.39,66,Dubai
+2025-12-14,Electronics,8104.18,27,Abu Dhabi
+2025-12-14,Home & Kitchen,4341.42,46,Abu Dhabi
+2025-12-14,Fashion,4291.91,57,Dubai
+2025-12-14,Groceries,2413.26,68,Sharjah
+2025-12-15,Electronics,5697.72,18,Abu Dhabi
+2025-12-15,Home & Kitchen,3068.08,32,Dubai
+2025-12-15,Fashion,4288.51,53,Abu Dhabi
+2025-12-15,Groceries,2325.31,58,Abu Dhabi
+2025-12-16,Electronics,6003.75,17,Sharjah
+2025-12-16,Home & Kitchen,3490.02,37,Dubai
+2025-12-16,Fashion,3729.8,50,Abu Dhabi
+2025-12-16,Groceries,2111.67,59,Abu Dhabi
+2025-12-17,Electronics,5725.24,19,Abu Dhabi
+2025-12-17,Home & Kitchen,4062.29,42,Abu Dhabi
+2025-12-17,Fashion,4104.72,64,Dubai
+2025-12-17,Groceries,2397.63,61,Dubai
+2025-12-18,Electronics,5645.4,17,Dubai
+2025-12-18,Home & Kitchen,3348.45,34,Abu Dhabi
+2025-12-18,Fashion,3367.45,45,Sharjah
+2025-12-18,Groceries,2013.32,56,Dubai
+2025-12-19,Electronics,7112.16,22,Dubai
+2025-12-19,Home & Kitchen,4431.7,47,Abu Dhabi
+2025-12-19,Fashion,3955.97,58,Abu Dhabi
+2025-12-19,Groceries,3098.41,87,Abu Dhabi
+2025-12-20,Electronics,7711.97,24,Abu Dhabi
+2025-12-20,Home & Kitchen,4140.93,47,Dubai
+2025-12-20,Fashion,4873.73,62,Sharjah
+2025-12-20,Groceries,2504.75,64,Sharjah
+2025-12-21,Electronics,7787.98,26,Dubai
+2025-12-21,Home & Kitchen,4394.59,48,Abu Dhabi
+2025-12-21,Fashion,4745.16,64,Sharjah
+2025-12-21,Groceries,2564.73,69,Dubai
+2025-12-22,Electronics,5921.59,20,Abu Dhabi
+2025-12-22,Home & Kitchen,3368.65,33,Dubai
+2025-12-22,Fashion,3867.85,55,Dubai
+2025-12-22,Groceries,2198.07,59,Dubai
+2025-12-23,Electronics,6408.48,21,Sharjah
+2025-12-23,Home & Kitchen,3657.97,35,Dubai
+2025-12-23,Fashion,4088.73,56,Sharjah
+2025-12-23,Groceries,2263.82,59,Abu Dhabi
+2025-12-24,Electronics,6373.4,21,Dubai
+2025-12-24,Home & Kitchen,3653.41,36,Dubai
+2025-12-24,Fashion,3999.37,52,Abu Dhabi
+2025-12-24,Groceries,2104.07,58,Sharjah
+2025-12-25,Electronics,6491.34,21,Sharjah
+2025-12-25,Home & Kitchen,3437.62,34,Abu Dhabi
+2025-12-25,Fashion,3759.05,50,Abu Dhabi
+2025-12-25,Groceries,2161.2,55,Abu Dhabi
+2025-12-26,Electronics,7084.12,22,Abu Dhabi
+2025-12-26,Home & Kitchen,4037.78,42,Dubai
+2025-12-26,Fashion,4272.76,61,Dubai
+2025-12-26,Groceries,2736.89,67,Abu Dhabi
+2025-12-27,Electronics,8087.85,25,Sharjah
+2025-12-27,Home & Kitchen,4241.97,42,Sharjah
+2025-12-27,Fashion,4228.59,57,Sharjah
+2025-12-27,Groceries,2499.6,62,Abu Dhabi
+2025-12-28,Electronics,6980.66,22,Dubai
+2025-12-28,Home & Kitchen,3696.66,37,Abu Dhabi
+2025-12-28,Fashion,4611.44,63,Dubai
+2025-12-28,Groceries,2539.82,68,Abu Dhabi
+2025-12-29,Electronics,6139.59,20,Abu Dhabi
+2025-12-29,Home & Kitchen,3731.83,38,Sharjah
+2025-12-29,Fashion,3905.05,54,Dubai
+2025-12-29,Groceries,2028.21,52,Dubai
+2025-12-30,Electronics,7076.63,23,Sharjah
+2025-12-30,Home & Kitchen,3222.38,31,Dubai
+2025-12-30,Fashion,4063.03,52,Dubai
+2025-12-30,Groceries,2249.54,66,Dubai
+2025-12-31,Electronics,5621.01,18,Dubai
+2025-12-31,Home & Kitchen,3279.82,33,Abu Dhabi
+2025-12-31,Fashion,3712.48,52,Dubai
+2025-12-31,Groceries,2111.52,50,Sharjah
+2026-01-01,Electronics,6529.2,21,Dubai
+2026-01-01,Home & Kitchen,3565.29,38,Abu Dhabi
+2026-01-01,Fashion,3709.39,48,Dubai
+2026-01-01,Groceries,2228.48,60,Dubai
+2026-01-02,Electronics,7699.98,24,Dubai
+2026-01-02,Home & Kitchen,3973.1,41,Sharjah
+2026-01-02,Fashion,4641.7,65,Dubai
+2026-01-02,Groceries,2490.97,67,Dubai
+2026-01-03,Electronics,7679.95,25,Abu Dhabi
+2026-01-03,Home & Kitchen,4381.68,45,Abu Dhabi
+2026-01-03,Fashion,4297.69,57,Abu Dhabi
+2026-01-03,Groceries,2371.96,62,Abu Dhabi
+2026-01-04,Electronics,7598.13,23,Abu Dhabi
+2026-01-04,Home & Kitchen,3990.8,42,Dubai
+2026-01-04,Fashion,3864.76,54,Sharjah
+2026-01-04,Groceries,2750.36,67,Abu Dhabi
+2026-01-05,Electronics,6673.52,22,Abu Dhabi
+2026-01-05,Home & Kitchen,3395.54,34,Dubai
+2026-01-05,Fashion,3670.76,49,Sharjah
+2026-01-05,Groceries,2119.14,50,Abu Dhabi
+2026-01-06,Electronics,5803.71,20,Dubai
+2026-01-06,Home & Kitchen,3212.17,34,Dubai
+2026-01-06,Fashion,3803.35,50,Abu Dhabi
+2026-01-06,Groceries,2157.6,56,Sharjah
+2026-01-07,Electronics,6360.38,19,Dubai
+2026-01-07,Home & Kitchen,3554.04,40,Dubai
+2026-01-07,Fashion,4277.41,58,Dubai
+2026-01-07,Groceries,2313.98,61,Sharjah
+2026-01-08,Electronics,6202.06,19,Abu Dhabi
+2026-01-08,Home & Kitchen,3724.42,38,Abu Dhabi
+2026-01-08,Fashion,3288.06,48,Abu Dhabi
+2026-01-08,Groceries,2211.45,61,Dubai
+2026-01-09,Electronics,7663.02,27,Dubai
+2026-01-09,Home & Kitchen,3976.43,41,Abu Dhabi
+2026-01-09,Fashion,3774.45,52,Abu Dhabi
+2026-01-09,Groceries,2600.77,68,Dubai
+2026-01-10,Electronics,7740.57,25,Dubai
+2026-01-10,Home & Kitchen,4382.31,45,Sharjah
+2026-01-10,Fashion,4285.83,56,Dubai
+2026-01-10,Groceries,2313.41,61,Dubai
+2026-01-11,Electronics,7116.99,22,Abu Dhabi
+2026-01-11,Home & Kitchen,3939.26,41,Sharjah
+2026-01-11,Fashion,4505.87,59,Abu Dhabi
+2026-01-11,Groceries,2560.15,69,Abu Dhabi
+2026-01-12,Electronics,6221.51,21,Abu Dhabi
+2026-01-12,Home & Kitchen,3630.53,40,Abu Dhabi
+2026-01-12,Fashion,3408.53,46,Sharjah
+2026-01-12,Groceries,2121.63,58,Abu Dhabi
+2026-01-13,Electronics,6184.66,20,Dubai
+2026-01-13,Home & Kitchen,3757.89,40,Dubai
+2026-01-13,Fashion,3798.6,52,Sharjah
+2026-01-13,Groceries,1776.84,48,Abu Dhabi
+2026-01-14,Electronics,6106.48,19,Abu Dhabi
+2026-01-14,Home & Kitchen,3144.7,34,Abu Dhabi
+2026-01-14,Fashion,4238.72,55,Dubai
+2026-01-14,Groceries,2156.89,52,Dubai
+2026-01-15,Electronics,6322.18,19,Sharjah
+2026-01-15,Home & Kitchen,3198.15,33,Abu Dhabi
+2026-01-15,Fashion,3521.74,49,Sharjah
+2026-01-15,Groceries,2060.99,52,Abu Dhabi
+2026-01-16,Electronics,7425.01,25,Abu Dhabi
+2026-01-16,Home & Kitchen,4080.39,46,Abu Dhabi
+2026-01-16,Fashion,4225.77,61,Dubai
+2026-01-16,Groceries,2336.69,64,Dubai
+2026-01-17,Electronics,7355.35,20,Abu Dhabi
+2026-01-17,Home & Kitchen,3977.06,42,Sharjah
+2026-01-17,Fashion,4304.86,68,Dubai
+2026-01-17,Groceries,2260.13,59,Dubai
+2026-01-18,Electronics,7307.75,24,Dubai
+2026-01-18,Home & Kitchen,4210.38,42,Dubai
+2026-01-18,Fashion,4561.99,64,Dubai
+2026-01-18,Groceries,2465.56,63,Dubai
+2026-01-19,Electronics,6125.02,19,Sharjah
+2026-01-19,Home & Kitchen,3172.67,30,Dubai
+2026-01-19,Fashion,3923.03,54,Sharjah
+2026-01-19,Groceries,1748.05,41,Sharjah
+2026-01-20,Electronics,5639.36,18,Dubai
+2026-01-20,Home & Kitchen,3469.7,38,Abu Dhabi
+2026-01-20,Fashion,4063.53,60,Dubai
+2026-01-20,Groceries,2014.39,47,Dubai
+2026-01-21,Electronics,6719.63,22,Dubai
+2026-01-21,Home & Kitchen,3578.1,36,Dubai
+2026-01-21,Fashion,3874.19,52,Dubai
+2026-01-21,Groceries,2082.88,54,Dubai
+2026-01-22,Electronics,5892.83,19,Dubai
+2026-01-22,Home & Kitchen,3027.37,31,Dubai
+2026-01-22,Fashion,3719.15,51,Dubai
+2026-01-22,Groceries,2167.59,52,Dubai
+2026-01-23,Electronics,6544.93,19,Dubai
+2026-01-23,Home & Kitchen,3913.35,42,Dubai
+2026-01-23,Fashion,4776.47,64,Dubai
+2026-01-23,Groceries,2249.22,60,Abu Dhabi
+2026-01-24,Electronics,7008.71,22,Dubai
+2026-01-24,Home & Kitchen,3630.04,38,Sharjah
+2026-01-24,Fashion,4116.84,56,Dubai
+2026-01-24,Groceries,2164.81,60,Abu Dhabi
+2026-01-25,Electronics,7361.43,23,Dubai
+2026-01-25,Home & Kitchen,3806.06,39,Abu Dhabi
+2026-01-25,Fashion,3999.43,55,Abu Dhabi
+2026-01-25,Groceries,2223.82,55,Abu Dhabi
+2026-01-26,Electronics,5725.03,18,Sharjah
+2026-01-26,Home & Kitchen,3450.96,35,Dubai
+2026-01-26,Fashion,3320.56,43,Dubai
+2026-01-26,Groceries,2083.42,54,Dubai
+2026-01-27,Electronics,5567.55,17,Dubai
+2026-01-27,Home & Kitchen,3464.15,34,Dubai
+2026-01-27,Fashion,3756.91,52,Dubai
+2026-01-27,Groceries,2025.25,56,Abu Dhabi
+2026-01-28,Electronics,6340.28,19,Abu Dhabi
+2026-01-28,Home & Kitchen,2957.18,27,Dubai
+2026-01-28,Fashion,3736.25,54,Sharjah
+2026-01-28,Groceries,2047.61,56,Dubai
+2026-01-29,Electronics,6106.95,19,Abu Dhabi
+2026-01-29,Home & Kitchen,3074.89,33,Abu Dhabi
+2026-01-29,Fashion,3568.96,50,Abu Dhabi
+2026-01-29,Groceries,2039.45,50,Dubai
+2026-01-30,Electronics,6622.71,21,Abu Dhabi
+2026-01-30,Home & Kitchen,3714.26,39,Abu Dhabi
+2026-01-30,Fashion,4398.76,60,Dubai
+2026-01-30,Groceries,2325.71,58,Abu Dhabi
+2026-01-31,Electronics,7558.02,23,Dubai
+2026-01-31,Home & Kitchen,3755.61,37,Dubai
+2026-01-31,Fashion,4250.66,65,Dubai
+2026-01-31,Groceries,2241.5,62,Abu Dhabi
+2026-02-01,Electronics,6728.74,22,Dubai
+2026-02-01,Home & Kitchen,3647.42,35,Abu Dhabi
+2026-02-01,Fashion,4514.46,64,Dubai
+2026-02-01,Groceries,2137.95,57,Dubai
+2026-02-02,Electronics,5865.73,19,Dubai
+2026-02-02,Home & Kitchen,3596.75,38,Abu Dhabi
+2026-02-02,Fashion,3500.37,43,Dubai
+2026-02-02,Groceries,2061.53,52,Sharjah
+2026-02-03,Electronics,5914.92,18,Dubai
+2026-02-03,Home & Kitchen,3048.22,33,Sharjah
+2026-02-03,Fashion,3664.43,56,Dubai
+2026-02-03,Groceries,2152.79,58,Abu Dhabi
+2026-02-04,Electronics,5366.06,16,Sharjah
+2026-02-04,Home & Kitchen,2952.37,31,Sharjah
+2026-02-04,Fashion,3426.88,50,Sharjah
+2026-02-04,Groceries,2004.75,48,Dubai
+2026-02-05,Electronics,5295.74,17,Dubai
+2026-02-05,Home & Kitchen,3301.0,33,Dubai
+2026-02-05,Fashion,3364.65,47,Dubai
+2026-02-05,Groceries,2032.07,54,Abu Dhabi
+2026-02-06,Electronics,7425.41,22,Abu Dhabi
+2026-02-06,Home & Kitchen,3744.9,36,Dubai
+2026-02-06,Fashion,4040.12,58,Sharjah
+2026-02-06,Groceries,2175.29,58,Dubai
+2026-02-07,Electronics,6766.18,21,Dubai
+2026-02-07,Home & Kitchen,3780.2,37,Dubai
+2026-02-07,Fashion,4229.21,58,Abu Dhabi
+2026-02-07,Groceries,2398.44,65,Sharjah
+2026-02-08,Electronics,7715.76,23,Dubai
+2026-02-08,Home & Kitchen,3357.17,36,Sharjah
+2026-02-08,Fashion,4409.71,61,Dubai
+2026-02-08,Groceries,2540.64,69,Sharjah
+2026-02-09,Electronics,6251.45,21,Abu Dhabi
+2026-02-09,Home & Kitchen,3063.55,33,Dubai
+2026-02-09,Fashion,8178.63,111,Dubai
+2026-02-09,Groceries,1979.58,55,Abu Dhabi
+2026-02-10,Electronics,5759.72,20,Dubai
+2026-02-10,Home & Kitchen,3272.25,34,Sharjah
+2026-02-10,Fashion,3489.91,47,Abu Dhabi
+2026-02-10,Groceries,1818.67,46,Sharjah
+2026-02-11,Electronics,5879.5,17,Dubai
+2026-02-11,Home & Kitchen,3482.01,36,Dubai
+2026-02-11,Fashion,3691.24,48,Dubai
+2026-02-11,Groceries,2089.62,55,Dubai
+2026-02-12,Electronics,5651.37,18,Dubai
+2026-02-12,Home & Kitchen,3052.67,32,Dubai
+2026-02-12,Fashion,3570.66,44,Dubai
+2026-02-12,Groceries,1772.13,48,Dubai
+2026-02-13,Electronics,6317.01,19,Dubai
+2026-02-13,Home & Kitchen,3446.44,36,Dubai
+2026-02-13,Fashion,4007.68,56,Abu Dhabi
+2026-02-13,Groceries,2336.31,60,Sharjah
+2026-02-14,Electronics,6370.06,20,Sharjah
+2026-02-14,Home & Kitchen,3964.5,40,Abu Dhabi
+2026-02-14,Fashion,4472.5,66,Abu Dhabi
+2026-02-14,Groceries,2287.02,62,Abu Dhabi
+2026-02-15,Electronics,6684.05,21,Dubai
+2026-02-15,Home & Kitchen,3834.39,43,Abu Dhabi
+2026-02-15,Fashion,4081.95,62,Abu Dhabi
+2026-02-15,Groceries,2051.51,61,Dubai
+2026-02-16,Electronics,5677.58,17,Abu Dhabi
+2026-02-16,Home & Kitchen,3435.3,33,Abu Dhabi
+2026-02-16,Fashion,3762.85,51,Abu Dhabi
+2026-02-16,Groceries,1982.97,49,Abu Dhabi
+2026-02-17,Electronics,5653.9,19,Abu Dhabi
+2026-02-17,Home & Kitchen,3183.73,35,Dubai
+2026-02-17,Fashion,3607.98,50,Sharjah
+2026-02-17,Groceries,1990.04,56,Sharjah
+2026-02-18,Electronics,5926.09,18,Abu Dhabi
+2026-02-18,Home & Kitchen,2687.0,28,Sharjah
+2026-02-18,Fashion,3715.04,47,Abu Dhabi
+2026-02-18,Groceries,1836.09,51,Dubai
+2026-02-19,Electronics,5192.34,15,Abu Dhabi
+2026-02-19,Home & Kitchen,3192.36,37,Dubai
+2026-02-19,Fashion,3590.47,53,Dubai
+2026-02-19,Groceries,1864.45,47,Dubai
+2026-02-20,Electronics,6852.38,22,Sharjah
+2026-02-20,Home & Kitchen,3598.22,36,Abu Dhabi
+2026-02-20,Fashion,4301.53,65,Abu Dhabi
+2026-02-20,Groceries,2182.05,54,Dubai
+2026-02-21,Electronics,7100.38,21,Dubai
+2026-02-21,Home & Kitchen,3639.94,38,Dubai
+2026-02-21,Fashion,3551.11,49,Abu Dhabi
+2026-02-21,Groceries,2080.14,55,Abu Dhabi
+2026-02-22,Electronics,7329.55,23,Dubai
+2026-02-22,Home & Kitchen,3389.09,37,Dubai
+2026-02-22,Fashion,3525.22,48,Dubai
+2026-02-22,Groceries,2141.09,55,Abu Dhabi
+2026-02-23,Electronics,6372.74,19,Dubai
+2026-02-23,Home & Kitchen,3253.76,36,Abu Dhabi
+2026-02-23,Fashion,3074.9,44,Abu Dhabi
+2026-02-23,Groceries,1779.06,48,Abu Dhabi
+2026-02-24,Electronics,5503.57,16,Dubai
+2026-02-24,Home & Kitchen,2775.66,28,Abu Dhabi
+2026-02-24,Fashion,3268.48,43,Sharjah
+2026-02-24,Groceries,1781.96,48,Abu Dhabi
+2026-02-25,Electronics,5376.11,17,Abu Dhabi
+2026-02-25,Home & Kitchen,3227.29,35,Abu Dhabi
+2026-02-25,Fashion,3501.56,53,Abu Dhabi
+2026-02-25,Groceries,1794.29,50,Dubai
+2026-02-26,Electronics,5719.63,20,Dubai
+2026-02-26,Home & Kitchen,2877.02,30,Dubai
+2026-02-26,Fashion,3577.2,50,Dubai
+2026-02-26,Groceries,1781.56,48,Dubai
+2026-02-27,Electronics,7086.57,22,Dubai
+2026-02-27,Home & Kitchen,3784.38,41,Abu Dhabi
+2026-02-27,Fashion,3914.5,57,Dubai
+2026-02-27,Groceries,1924.35,49,Dubai
+2026-02-28,Electronics,6723.43,20,Dubai
+2026-02-28,Home & Kitchen,3378.25,35,Dubai
+2026-02-28,Fashion,3575.57,52,Dubai
+2026-02-28,Groceries,2217.1,64,Abu Dhabi
+2026-03-01,Electronics,6740.75,21,Dubai
+2026-03-01,Home & Kitchen,3762.5,42,Dubai
+2026-03-01,Fashion,4305.13,66,Dubai
+2026-03-01,Groceries,2174.17,56,Dubai
+2026-03-02,Electronics,5378.17,18,Abu Dhabi
+2026-03-02,Home & Kitchen,3073.22,33,Abu Dhabi
+2026-03-02,Fashion,3163.45,44,Dubai
+2026-03-02,Groceries,1782.7,46,Abu Dhabi
+2026-03-03,Electronics,4441.86,13,Dubai
+2026-03-03,Home & Kitchen,2662.15,29,Abu Dhabi
+2026-03-03,Fashion,3472.22,46,Abu Dhabi
+2026-03-03,Groceries,1781.53,46,Abu Dhabi
+2026-03-04,Electronics,5293.46,16,Sharjah
+2026-03-04,Home & Kitchen,3139.15,33,Dubai
+2026-03-04,Fashion,3008.68,41,Sharjah
+2026-03-04,Groceries,1656.87,42,Dubai
+2026-03-05,Electronics,5502.22,19,Dubai
+2026-03-05,Home & Kitchen,3049.94,32,Dubai
+2026-03-05,Fashion,3305.7,43,Dubai
+2026-03-05,Groceries,1593.81,42,Dubai
+2026-03-06,Electronics,6644.61,21,Abu Dhabi
+2026-03-06,Home & Kitchen,3471.8,35,Sharjah
+2026-03-06,Fashion,3564.89,48,Dubai
+2026-03-06,Groceries,2135.7,51,Abu Dhabi
+2026-03-07,Electronics,6477.81,21,Abu Dhabi
+2026-03-07,Home & Kitchen,3414.09,38,Dubai
+2026-03-07,Fashion,4142.38,58,Dubai
+2026-03-07,Groceries,2094.54,54,Dubai
+2026-03-08,Electronics,6664.2,22,Dubai
+2026-03-08,Home & Kitchen,3190.82,33,Dubai
+2026-03-08,Fashion,3793.02,48,Sharjah
+2026-03-08,Groceries,2156.54,56,Dubai
+2026-03-09,Electronics,5047.41,17,Abu Dhabi
+2026-03-09,Home & Kitchen,2576.8,28,Abu Dhabi
+2026-03-09,Fashion,3050.06,44,Sharjah
+2026-03-09,Groceries,1764.31,47,Dubai
+2026-03-10,Electronics,5275.72,15,Dubai
+2026-03-10,Home & Kitchen,2489.53,26,Abu Dhabi
+2026-03-10,Fashion,3207.27,48,Dubai
+2026-03-10,Groceries,1736.07,46,Dubai
+2026-03-11,Electronics,5499.9,17,Sharjah
+2026-03-11,Home & Kitchen,2784.87,31,Sharjah
+2026-03-11,Fashion,2962.96,40,Dubai
+2026-03-11,Groceries,1717.63,45,Dubai
+2026-03-12,Electronics,5458.52,17,Dubai
+2026-03-12,Home & Kitchen,2697.37,28,Abu Dhabi
+2026-03-12,Fashion,3182.36,45,Dubai
+2026-03-12,Groceries,1718.82,42,Sharjah
+2026-03-13,Electronics,6497.89,20,Dubai
+2026-03-13,Home & Kitchen,3051.67,31,Abu Dhabi
+2026-03-13,Fashion,3845.66,52,Dubai
+2026-03-13,Groceries,2024.95,52,Dubai
+2026-03-14,Electronics,6358.77,21,Abu Dhabi
+2026-03-14,Home & Kitchen,3475.58,37,Abu Dhabi
+2026-03-14,Fashion,3719.78,58,Dubai
+2026-03-14,Groceries,2119.84,54,Abu Dhabi
+2026-03-15,Electronics,5724.28,18,Dubai
+2026-03-15,Home & Kitchen,3159.75,33,Abu Dhabi
+2026-03-15,Fashion,3824.72,56,Abu Dhabi
+2026-03-15,Groceries,2013.83,54,Dubai
+2026-03-16,Electronics,5818.66,17,Dubai
+2026-03-16,Home & Kitchen,3027.15,29,Dubai
+2026-03-16,Fashion,3160.89,42,Dubai
+2026-03-16,Groceries,1642.79,45,Dubai
+2026-03-17,Electronics,5001.75,15,Dubai
+2026-03-17,Home & Kitchen,3083.79,30,Dubai
+2026-03-17,Fashion,3318.61,47,Dubai
+2026-03-17,Groceries,1752.68,46,Dubai
+2026-03-18,Electronics,5009.97,15,Abu Dhabi
+2026-03-18,Home & Kitchen,2770.35,28,Dubai
+2026-03-18,Fashion,3198.84,47,Abu Dhabi
+2026-03-18,Groceries,1741.83,44,Dubai
+2026-03-19,Electronics,6245.96,20,Dubai
+2026-03-19,Home & Kitchen,2648.59,26,Sharjah
+2026-03-19,Fashion,3278.33,47,Dubai
+2026-03-19,Groceries,1641.18,41,Dubai
+2026-03-20,Electronics,5755.04,18,Dubai
+2026-03-20,Home & Kitchen,3072.17,31,Abu Dhabi
+2026-03-20,Fashion,3799.12,53,Dubai
+2026-03-20,Groceries,2011.48,51,Dubai
+2026-03-21,Electronics,6018.5,18,Abu Dhabi
+2026-03-21,Home & Kitchen,3260.89,35,Dubai
+2026-03-21,Fashion,3461.76,46,Abu Dhabi
+2026-03-21,Groceries,2012.59,49,Abu Dhabi
+2026-03-22,Electronics,5919.74,19,Sharjah
+2026-03-22,Home & Kitchen,3002.39,29,Abu Dhabi
+2026-03-22,Fashion,3662.25,49,Sharjah
+2026-03-22,Groceries,2270.34,56,Dubai
+2026-03-23,Electronics,4826.19,15,Dubai
+2026-03-23,Home & Kitchen,2764.11,28,Dubai
+2026-03-23,Fashion,3162.47,40,Abu Dhabi
+2026-03-23,Groceries,1684.4,48,Sharjah
+2026-03-24,Electronics,5481.37,17,Dubai
+2026-03-24,Home & Kitchen,2867.2,31,Abu Dhabi
+2026-03-24,Fashion,2810.36,40,Abu Dhabi
+2026-03-24,Groceries,1496.11,39,Dubai
+2026-03-25,Electronics,4659.73,14,Dubai
+2026-03-25,Home & Kitchen,2838.0,29,Dubai
+2026-03-25,Fashion,2911.88,43,Sharjah
+2026-03-25,Groceries,1565.46,38,Dubai
+2026-03-26,Electronics,4627.74,14,Abu Dhabi
+2026-03-26,Home & Kitchen,2661.54,27,Dubai
+2026-03-26,Fashion,2892.73,40,Abu Dhabi
+2026-03-26,Groceries,1536.72,40,Dubai
+2026-03-27,Electronics,5715.05,19,Dubai
+2026-03-27,Home & Kitchen,3394.51,35,Sharjah
+2026-03-27,Fashion,3707.0,51,Abu Dhabi
+2026-03-27,Groceries,2078.75,57,Sharjah
+2026-03-28,Electronics,5728.68,19,Sharjah
+2026-03-28,Home & Kitchen,3395.52,38,Abu Dhabi
+2026-03-28,Fashion,3392.29,44,Dubai
+2026-03-28,Groceries,1901.97,49,Dubai
+2026-03-29,Electronics,5953.87,19,Dubai
+2026-03-29,Home & Kitchen,3294.01,36,Abu Dhabi
+2026-03-29,Fashion,3480.01,49,Abu Dhabi
+2026-03-29,Groceries,1754.7,46,Abu Dhabi
+2026-03-30,Electronics,5197.62,17,Dubai
+2026-03-30,Home & Kitchen,2759.22,31,Dubai
+2026-03-30,Fashion,2816.61,39,Dubai
+2026-03-30,Groceries,1703.36,43,Dubai
+2026-03-31,Electronics,5059.47,16,Dubai
+2026-03-31,Home & Kitchen,2796.44,27,Dubai
+2026-03-31,Fashion,2839.33,38,Dubai
+2026-03-31,Groceries,1614.97,44,Sharjah
+2026-04-01,Electronics,4809.73,14,Dubai
+2026-04-01,Home & Kitchen,2286.41,24,Dubai
+2026-04-01,Fashion,3321.94,45,Dubai
+2026-04-01,Groceries,1688.98,46,Sharjah
+2026-04-02,Electronics,4974.71,16,Dubai
+2026-04-02,Home & Kitchen,2429.5,24,Dubai
+2026-04-02,Fashion,2731.71,41,Abu Dhabi
+2026-04-02,Groceries,1750.71,48,Abu Dhabi
+2026-04-03,Electronics,5905.81,19,Abu Dhabi
+2026-04-03,Home & Kitchen,3075.71,30,Sharjah
+2026-04-03,Fashion,3028.39,38,Dubai
+2026-04-03,Groceries,1745.75,46,Dubai
+2026-04-04,Electronics,5840.02,18,Dubai
+2026-04-04,Home & Kitchen,2997.51,32,Abu Dhabi
+2026-04-04,Fashion,3407.9,42,Abu Dhabi
+2026-04-04,Groceries,1968.78,51,Dubai
+2026-04-05,Electronics,6319.54,20,Sharjah
+2026-04-05,Home & Kitchen,3043.66,30,Dubai
+2026-04-05,Fashion,3726.01,50,Abu Dhabi
+2026-04-05,Groceries,2030.57,49,Sharjah
+2026-04-06,Electronics,4955.9,14,Dubai
+2026-04-06,Home & Kitchen,2465.76,26,Dubai
+2026-04-06,Fashion,2808.37,41,Abu Dhabi
+2026-04-06,Groceries,1583.2,41,Dubai
+2026-04-07,Electronics,4703.96,15,Dubai
+2026-04-07,Home & Kitchen,2541.66,26,Sharjah
+2026-04-07,Fashion,2873.97,37,Abu Dhabi
+2026-04-07,Groceries,1589.37,44,Sharjah
+2026-04-08,Electronics,4644.22,14,Abu Dhabi
+2026-04-08,Home & Kitchen,2694.03,26,Sharjah
+2026-04-08,Fashion,3000.69,43,Abu Dhabi
+2026-04-08,Groceries,1559.61,41,Dubai
+2026-04-09,Electronics,4760.2,16,Dubai
+2026-04-09,Home & Kitchen,2402.57,26,Sharjah
+2026-04-09,Fashion,2548.6,33,Abu Dhabi
+2026-04-09,Groceries,1524.71,42,Dubai
+2026-04-10,Electronics,5010.71,15,Dubai
+2026-04-10,Home & Kitchen,2906.35,31,Abu Dhabi
+2026-04-10,Fashion,3690.59,54,Dubai
+2026-04-10,Groceries,1617.38,41,Sharjah
+2026-04-11,Electronics,6540.11,21,Dubai
+2026-04-11,Home & Kitchen,2901.64,29,Sharjah
+2026-04-11,Fashion,3511.56,48,Abu Dhabi
+2026-04-11,Groceries,1714.42,42,Dubai
+2026-04-12,Electronics,5504.03,17,Dubai
+2026-04-12,Home & Kitchen,2909.54,30,Dubai
+2026-04-12,Fashion,3300.98,46,Abu Dhabi
+2026-04-12,Groceries,1727.63,49,Dubai
+2026-04-13,Electronics,4480.36,14,Dubai
+2026-04-13,Home & Kitchen,2417.8,24,Abu Dhabi
+2026-04-13,Fashion,2674.15,38,Dubai
+2026-04-13,Groceries,1571.32,43,Sharjah
+2026-04-14,Electronics,4767.06,14,Dubai
+2026-04-14,Home & Kitchen,2704.68,27,Abu Dhabi
+2026-04-14,Fashion,3002.96,39,Sharjah
+2026-04-14,Groceries,1730.62,48,Abu Dhabi
+2026-04-15,Electronics,4659.15,14,Abu Dhabi
+2026-04-15,Home & Kitchen,2529.98,25,Dubai
+2026-04-15,Fashion,3057.24,37,Dubai
+2026-04-15,Groceries,1260.48,33,Dubai
+2026-04-16,Electronics,4776.49,15,Dubai
+2026-04-16,Home & Kitchen,2341.37,24,Abu Dhabi
+2026-04-16,Fashion,2298.95,30,Dubai
+2026-04-16,Groceries,1516.69,39,Abu Dhabi
+2026-04-17,Electronics,5565.64,17,Dubai
+2026-04-17,Home & Kitchen,3078.22,32,Sharjah
+2026-04-17,Fashion,3570.36,48,Abu Dhabi
+2026-04-17,Groceries,1522.07,41,Sharjah
+2026-04-18,Electronics,6039.32,19,Abu Dhabi
+2026-04-18,Home & Kitchen,2919.64,27,Abu Dhabi
+2026-04-18,Fashion,2967.68,41,Dubai
+2026-04-18,Groceries,1569.14,40,Sharjah
+2026-04-19,Electronics,6144.57,19,Sharjah
+2026-04-19,Home & Kitchen,3007.32,30,Abu Dhabi
+2026-04-19,Fashion,2838.86,36,Sharjah
+2026-04-19,Groceries,1967.96,51,Dubai
+2026-04-20,Electronics,4494.01,14,Dubai
+2026-04-20,Home & Kitchen,2682.44,28,Dubai
+2026-04-20,Fashion,2624.69,39,Dubai
+2026-04-20,Groceries,1641.66,41,Dubai
+2026-04-21,Electronics,4959.08,15,Dubai
+2026-04-21,Home & Kitchen,2068.52,20,Dubai
+2026-04-21,Fashion,2836.66,43,Dubai
+2026-04-21,Groceries,1596.72,40,Sharjah
+2026-04-22,Electronics,4584.85,14,Abu Dhabi
+2026-04-22,Home & Kitchen,2436.99,26,Sharjah
+2026-04-22,Fashion,2654.16,35,Dubai
+2026-04-22,Groceries,1403.01,33,Sharjah
+2026-04-23,Electronics,4797.69,14,Abu Dhabi
+2026-04-23,Home & Kitchen,2101.77,21,Abu Dhabi
+2026-04-23,Fashion,2998.7,46,Dubai
+2026-04-23,Groceries,1472.01,39,Sharjah
+2026-04-24,Electronics,5214.8,15,Abu Dhabi
+2026-04-24,Home & Kitchen,2625.39,29,Dubai
+2026-04-24,Fashion,3227.81,42,Abu Dhabi
+2026-04-24,Groceries,1854.29,52,Sharjah
+2026-04-25,Electronics,5330.87,16,Dubai
+2026-04-25,Home & Kitchen,2708.02,27,Dubai
+2026-04-25,Fashion,3173.47,45,Dubai
+2026-04-25,Groceries,1977.12,52,Abu Dhabi
+2026-04-26,Electronics,5910.36,18,Dubai
+2026-04-26,Home & Kitchen,3100.23,31,Sharjah
+2026-04-26,Fashion,3412.52,48,Dubai
+2026-04-26,Groceries,1668.91,42,Sharjah
+2026-04-27,Electronics,4729.53,16,Abu Dhabi
+2026-04-27,Home & Kitchen,2393.53,25,Dubai
+2026-04-27,Fashion,2658.66,37,Abu Dhabi
+2026-04-27,Groceries,1577.02,42,Dubai
+2026-04-28,Electronics,4325.3,13,Dubai
+2026-04-28,Home & Kitchen,2535.55,25,Abu Dhabi
+2026-04-28,Fashion,2909.11,39,Sharjah
+2026-04-28,Groceries,1591.24,39,Abu Dhabi
+2026-04-29,Electronics,4837.73,15,Abu Dhabi
+2026-04-29,Home & Kitchen,2627.85,26,Dubai
+2026-04-29,Fashion,2850.43,39,Abu Dhabi
+2026-04-29,Groceries,1483.76,36,Dubai
+2026-04-30,Electronics,4854.92,16,Dubai
+2026-04-30,Home & Kitchen,2446.76,27,Dubai
+2026-04-30,Fashion,2418.92,32,Sharjah
+2026-04-30,Groceries,1401.63,35,Sharjah
+2026-05-01,Electronics,5628.57,19,Dubai
+2026-05-01,Home & Kitchen,2898.04,29,Abu Dhabi
+2026-05-01,Fashion,3387.56,46,Sharjah
+2026-05-01,Groceries,1872.25,48,Sharjah
+2026-05-02,Electronics,5460.19,17,Abu Dhabi
+2026-05-02,Home & Kitchen,3019.46,29,Dubai
+2026-05-02,Fashion,3313.89,45,Dubai
+2026-05-02,Groceries,1747.5,43,Abu Dhabi
+2026-05-03,Electronics,4706.31,15,Dubai
+2026-05-03,Home & Kitchen,3233.7,34,Dubai
+2026-05-03,Fashion,2998.83,41,Sharjah
+2026-05-03,Groceries,1596.16,42,Dubai
+2026-05-04,Electronics,4949.37,16,Abu Dhabi
+2026-05-04,Home & Kitchen,2303.93,25,Sharjah
+2026-05-04,Fashion,2267.93,29,Dubai
+2026-05-04,Groceries,1447.36,34,Sharjah
+2026-05-05,Electronics,4102.93,12,Dubai
+2026-05-05,Home & Kitchen,2322.48,24,Abu Dhabi
+2026-05-05,Fashion,2665.94,34,Abu Dhabi
+2026-05-05,Groceries,1448.41,35,Dubai
+2026-05-06,Electronics,4337.67,13,Abu Dhabi
+2026-05-06,Home & Kitchen,2301.18,24,Dubai
+2026-05-06,Fashion,2325.14,35,Sharjah
+2026-05-06,Groceries,1444.04,35,Abu Dhabi
+2026-05-07,Electronics,4458.92,13,Abu Dhabi
+2026-05-07,Home & Kitchen,2383.29,25,Dubai
+2026-05-07,Fashion,2571.29,36,Abu Dhabi
+2026-05-07,Groceries,1469.84,39,Abu Dhabi
+2026-05-08,Electronics,5813.86,19,Dubai
+2026-05-08,Home & Kitchen,3008.97,29,Dubai
+2026-05-08,Fashion,3429.77,47,Abu Dhabi
+2026-05-08,Groceries,1644.79,44,Abu Dhabi
+2026-05-09,Electronics,4456.72,14,Abu Dhabi
+2026-05-09,Home & Kitchen,2639.31,27,Abu Dhabi
+2026-05-09,Fashion,3171.76,44,Dubai
+2026-05-09,Groceries,1585.36,41,Dubai
+2026-05-10,Electronics,5206.92,16,Dubai
+2026-05-10,Home & Kitchen,2676.44,28,Abu Dhabi
+2026-05-10,Fashion,2998.79,41,Sharjah
+2026-05-10,Groceries,1588.65,41,Sharjah
+2026-05-11,Electronics,4604.25,14,Sharjah
+2026-05-11,Home & Kitchen,2282.89,24,Dubai
+2026-05-11,Fashion,2628.67,36,Dubai
+2026-05-11,Groceries,1551.64,39,Abu Dhabi
+2026-05-12,Electronics,4757.59,15,Dubai
+2026-05-12,Home & Kitchen,2391.37,22,Dubai
+2026-05-12,Fashion,2787.2,39,Sharjah
+2026-05-12,Groceries,1627.01,41,Dubai
+2026-05-13,Electronics,4841.7,15,Dubai
+2026-05-13,Home & Kitchen,2410.23,24,Abu Dhabi
+2026-05-13,Fashion,3062.71,41,Dubai
+2026-05-13,Groceries,1540.28,41,Sharjah
+2026-05-14,Electronics,4218.06,13,Dubai
+2026-05-14,Home & Kitchen,2455.94,25,Sharjah
+2026-05-14,Fashion,2541.34,35,Dubai
+2026-05-14,Groceries,1493.91,38,Dubai
+2026-05-15,Electronics,4825.45,15,Dubai
+2026-05-15,Home & Kitchen,2825.5,29,Dubai
+2026-05-15,Fashion,2995.49,42,Sharjah
+2026-05-15,Groceries,1576.7,37,Dubai
+2026-05-16,Electronics,5166.89,15,Abu Dhabi
+2026-05-16,Home & Kitchen,2985.01,33,Dubai
+2026-05-16,Fashion,3734.13,51,Abu Dhabi
+2026-05-16,Groceries,1669.21,41,Abu Dhabi
+2026-05-17,Electronics,5333.08,17,Dubai
+2026-05-17,Home & Kitchen,2814.38,30,Sharjah
+2026-05-17,Fashion,2544.29,33,Sharjah
+2026-05-17,Groceries,1603.48,39,Abu Dhabi
+2026-05-18,Electronics,4611.64,15,Abu Dhabi
+2026-05-18,Home & Kitchen,2358.75,25,Dubai
+2026-05-18,Fashion,2529.55,37,Dubai
+2026-05-18,Groceries,1444.95,40,Dubai
+2026-05-19,Electronics,4651.71,13,Dubai
+2026-05-19,Home & Kitchen,2455.4,28,Abu Dhabi
+2026-05-19,Fashion,2589.93,35,Dubai
+2026-05-19,Groceries,1383.59,37,Abu Dhabi
+2026-05-20,Electronics,4509.75,14,Abu Dhabi
+2026-05-20,Home & Kitchen,2504.72,24,Dubai
+2026-05-20,Fashion,2478.25,34,Dubai
+2026-05-20,Groceries,1487.48,37,Sharjah
+2026-05-21,Electronics,4450.38,13,Dubai
+2026-05-21,Home & Kitchen,2295.61,23,Dubai
+2026-05-21,Fashion,2808.88,38,Abu Dhabi
+2026-05-21,Groceries,1337.14,36,Sharjah
+2026-05-22,Electronics,4279.36,13,Dubai
+2026-05-22,Home & Kitchen,2778.23,29,Dubai
+2026-05-22,Fashion,3014.28,39,Sharjah
+2026-05-22,Groceries,1714.55,43,Sharjah
+2026-05-23,Electronics,5287.45,16,Dubai
+2026-05-23,Home & Kitchen,2961.52,33,Dubai
+2026-05-23,Fashion,3152.16,45,Abu Dhabi
+2026-05-23,Groceries,1557.43,40,Dubai
+2026-05-24,Electronics,5700.87,17,Dubai
+2026-05-24,Home & Kitchen,2805.13,28,Abu Dhabi
+2026-05-24,Fashion,2584.1,35,Abu Dhabi
+2026-05-24,Groceries,1709.09,43,Dubai
+2026-05-25,Electronics,4660.53,14,Sharjah
+2026-05-25,Home & Kitchen,2390.65,23,Dubai
+2026-05-25,Fashion,2558.4,37,Dubai
+2026-05-25,Groceries,1334.21,36,Sharjah
+2026-05-26,Electronics,4144.93,13,Abu Dhabi
+2026-05-26,Home & Kitchen,2457.53,24,Abu Dhabi
+2026-05-26,Fashion,2398.85,32,Abu Dhabi
+2026-05-26,Groceries,1590.49,44,Sharjah
+2026-05-27,Electronics,4532.55,14,Dubai
+2026-05-27,Home & Kitchen,2391.43,26,Sharjah
+2026-05-27,Fashion,2544.94,35,Dubai
+2026-05-27,Groceries,1464.02,38,Dubai
+2026-05-28,Electronics,4197.29,14,Abu Dhabi
+2026-05-28,Home & Kitchen,2485.32,25,Dubai
+2026-05-28,Fashion,2520.72,38,Sharjah
+2026-05-28,Groceries,1471.35,40,Abu Dhabi
+2026-05-29,Electronics,5233.1,16,Dubai
+2026-05-29,Home & Kitchen,2685.56,29,Dubai
+2026-05-29,Fashion,2738.69,37,Abu Dhabi
+2026-05-29,Groceries,1549.48,46,Dubai
+2026-05-30,Electronics,4851.56,15,Dubai
+2026-05-30,Home & Kitchen,2815.27,31,Dubai
+2026-05-30,Fashion,2962.2,39,Dubai
+2026-05-30,Groceries,1550.23,41,Dubai
+2026-05-31,Electronics,4666.12,14,Sharjah
+2026-05-31,Home & Kitchen,2801.05,28,Abu Dhabi
+2026-05-31,Fashion,3050.14,41,Abu Dhabi
+2026-05-31,Groceries,1595.51,45,Dubai
+2026-06-01,Electronics,4159.08,13,Dubai
+2026-06-01,Home & Kitchen,2383.43,24,Sharjah
+2026-06-01,Fashion,2134.47,29,Abu Dhabi
+2026-06-01,Groceries,1361.79,38,Dubai
+2026-06-02,Electronics,4718.92,14,Dubai
+2026-06-02,Home & Kitchen,2422.15,24,Dubai
+2026-06-02,Fashion,2745.13,37,Abu Dhabi
+2026-06-02,Groceries,1385.08,36,Sharjah
+2026-06-03,Electronics,4608.25,15,Dubai
+2026-06-03,Home & Kitchen,2377.47,25,Dubai
+2026-06-03,Fashion,2184.57,29,Dubai
+2026-06-03,Groceries,1357.37,34,Dubai
+2026-06-04,Electronics,4177.61,12,Abu Dhabi
+2026-06-04,Home & Kitchen,2473.11,23,Dubai
+2026-06-04,Fashion,2551.46,36,Dubai
+2026-06-04,Groceries,1337.84,37,Abu Dhabi
+2026-06-05,Electronics,5488.9,18,Dubai
+2026-06-05,Home & Kitchen,2775.68,25,Dubai
+2026-06-05,Fashion,2880.68,40,Dubai
+2026-06-05,Groceries,1628.56,42,Dubai
+2026-06-06,Electronics,5202.85,18,Dubai
+2026-06-06,Home & Kitchen,2998.8,29,Dubai
+2026-06-06,Fashion,2964.09,41,Sharjah
+2026-06-06,Groceries,1432.81,36,Dubai
+2026-06-07,Electronics,5225.26,19,Dubai
+2026-06-07,Home & Kitchen,2985.32,35,Dubai
+2026-06-07,Fashion,3085.76,44,Dubai
+2026-06-07,Groceries,1738.89,45,Sharjah
+2026-06-08,Electronics,4307.4,14,Abu Dhabi
+2026-06-08,Home & Kitchen,2174.65,21,Dubai
+2026-06-08,Fashion,2378.54,35,Abu Dhabi
+2026-06-08,Groceries,1207.24,33,Dubai
+2026-06-09,Electronics,4456.56,13,Dubai
+2026-06-09,Home & Kitchen,2419.67,24,Sharjah
+2026-06-09,Fashion,2386.38,33,Sharjah
+2026-06-09,Groceries,1364.67,36,Dubai
+2026-06-10,Electronics,4118.27,13,Abu Dhabi
+2026-06-10,Home & Kitchen,2390.94,25,Sharjah
+2026-06-10,Fashion,2586.25,37,Abu Dhabi
+2026-06-10,Groceries,1209.95,30,Dubai
+2026-06-11,Electronics,4501.61,14,Sharjah
+2026-06-11,Home & Kitchen,2643.79,27,Dubai
+2026-06-11,Fashion,2359.57,31,Sharjah
+2026-06-11,Groceries,1438.45,36,Dubai
+2026-06-12,Electronics,4672.28,15,Dubai
+2026-06-12,Home & Kitchen,2674.7,30,Dubai
+2026-06-12,Fashion,2961.48,45,Dubai
+2026-06-12,Groceries,1696.67,47,Sharjah
+2026-06-13,Electronics,5443.37,17,Dubai
+2026-06-13,Home & Kitchen,2782.03,27,Dubai
+2026-06-13,Fashion,2963.31,40,Dubai
+2026-06-13,Groceries,1641.52,44,Sharjah
+2026-06-14,Electronics,5065.97,16,Abu Dhabi
+2026-06-14,Home & Kitchen,2779.71,29,Dubai
+2026-06-14,Fashion,3032.14,39,Dubai
+2026-06-14,Groceries,1551.85,40,Sharjah
+2026-06-15,Electronics,4378.06,14,Dubai
+2026-06-15,Home & Kitchen,2116.44,25,Dubai
+2026-06-15,Fashion,2744.27,39,Abu Dhabi
+2026-06-15,Groceries,1333.04,34,Abu Dhabi
+2026-06-16,Electronics,4341.82,14,Sharjah
+2026-06-16,Home & Kitchen,2365.99,25,Dubai
+2026-06-16,Fashion,2654.51,36,Dubai
+2026-06-16,Groceries,1402.68,37,Abu Dhabi
+2026-06-17,Electronics,4281.83,14,Dubai
+2026-06-17,Home & Kitchen,2625.1,28,Dubai
+2026-06-17,Fashion,2600.01,35,Dubai
+2026-06-17,Groceries,1276.87,30,Dubai
+2026-06-18,Electronics,3953.4,13,Abu Dhabi
+2026-06-18,Home & Kitchen,2370.53,24,Dubai
+2026-06-18,Fashion,2266.78,31,Dubai
+2026-06-18,Groceries,1370.47,37,Dubai
+2026-06-19,Electronics,5200.36,17,Dubai
+2026-06-19,Home & Kitchen,2515.52,25,Sharjah
+2026-06-19,Fashion,2803.14,38,Dubai
+2026-06-19,Groceries,1381.88,36,Abu Dhabi
+2026-06-20,Electronics,4673.89,15,Dubai
+2026-06-20,Home & Kitchen,2749.2,32,Dubai
+2026-06-20,Fashion,2899.86,40,Dubai
+2026-06-20,Groceries,1667.07,41,Abu Dhabi
+2026-06-21,Electronics,5499.77,18,Dubai
+2026-06-21,Home & Kitchen,3369.0,31,Abu Dhabi
+2026-06-21,Fashion,3167.09,42,Sharjah
+2026-06-21,Groceries,1839.78,49,Sharjah
+2026-06-22,Electronics,5108.35,18,Dubai
+2026-06-22,Home & Kitchen,2069.03,22,Dubai
+2026-06-22,Fashion,2495.73,34,Abu Dhabi
+2026-06-22,Groceries,1366.03,38,Dubai
+2026-06-23,Electronics,4025.35,12,Abu Dhabi
+2026-06-23,Home & Kitchen,2463.12,26,Sharjah
+2026-06-23,Fashion,2770.08,38,Abu Dhabi
+2026-06-23,Groceries,1425.06,43,Dubai
+2026-06-24,Electronics,4335.36,15,Dubai
+2026-06-24,Home & Kitchen,2304.07,22,Dubai
+2026-06-24,Fashion,2910.27,37,Sharjah
+2026-06-24,Groceries,1301.15,32,Sharjah
+2026-06-25,Electronics,4516.7,14,Abu Dhabi
+2026-06-25,Home & Kitchen,2297.15,25,Abu Dhabi
+2026-06-25,Fashion,2516.55,32,Dubai
+2026-06-25,Groceries,1375.16,35,Sharjah
+2026-06-26,Electronics,5781.22,18,Dubai
+2026-06-26,Home & Kitchen,2711.5,27,Dubai
+2026-06-26,Fashion,2903.81,44,Sharjah
+2026-06-26,Groceries,1623.33,42,Abu Dhabi
+2026-06-27,Electronics,5316.85,18,Sharjah
+2026-06-27,Home & Kitchen,2783.34,31,Abu Dhabi
+2026-06-27,Fashion,2770.9,39,Dubai
+2026-06-27,Groceries,1593.15,42,Abu Dhabi
+2026-06-28,Electronics,5800.67,18,Abu Dhabi
+2026-06-28,Home & Kitchen,3180.54,32,Abu Dhabi
+2026-06-28,Fashion,3176.77,41,Abu Dhabi
+2026-06-28,Groceries,1714.93,43,Sharjah
+2026-06-29,Electronics,4312.49,14,Dubai
+2026-06-29,Home & Kitchen,2379.23,24,Dubai
+2026-06-29,Fashion,2509.99,37,Sharjah
+2026-06-29,Groceries,1447.15,39,Dubai
+2026-06-30,Electronics,4639.1,14,Dubai
+2026-06-30,Home & Kitchen,2180.16,23,Dubai
+2026-06-30,Fashion,2436.65,34,Dubai
+2026-06-30,Groceries,1344.45,34,Dubai
